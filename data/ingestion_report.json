@@ -1,0 +1,370 @@
+{
+  "requested_medicines": 15,
+  "expected_documents": 30,
+  "successful_medicines": 15,
+  "successful_documents": 30,
+  "failed_medicines": [],
+  "documents": [
+    {
+      "document_id": "67119691_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 16753,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-67119691-0"
+    },
+    {
+      "document_id": "67119691_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 18770,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-67119691-0"
+    },
+    {
+      "document_id": "69309629_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 16845,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69309629/extrait"
+    },
+    {
+      "document_id": "69309629_rcp",
+      "type": "RCP",
+      "sections": 29,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5"
+      ],
+      "characters": 18926,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69309629/extrait"
+    },
+    {
+      "document_id": "63368332_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 16684,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-63368332-0"
+    },
+    {
+      "document_id": "63368332_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 18779,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-63368332-0"
+    },
+    {
+      "document_id": "67459306_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 20002,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67459306/extrait"
+    },
+    {
+      "document_id": "67459306_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 29800,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67459306/extrait"
+    },
+    {
+      "document_id": "67410088_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 17153,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-67410088-0"
+    },
+    {
+      "document_id": "67410088_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 33057,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-67410088-0"
+    },
+    {
+      "document_id": "64529639_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 20792,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64529639/extrait"
+    },
+    {
+      "document_id": "64529639_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 38495,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64529639/extrait"
+    },
+    {
+      "document_id": "63691015_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 10477,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-63691015-0"
+    },
+    {
+      "document_id": "63691015_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 11669,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-63691015-0"
+    },
+    {
+      "document_id": "67913552_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 27319,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67913552/extrait"
+    },
+    {
+      "document_id": "67913552_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 38029,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67913552/extrait"
+    },
+    {
+      "document_id": "60550988_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 27607,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60550988/extrait"
+    },
+    {
+      "document_id": "60550988_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 41831,
+      "extraction_method": "desktop_extrait_fallback",
+      "source_url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60550988/extrait"
+    },
+    {
+      "document_id": "60807297_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 12541,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-60807297-0"
+    },
+    {
+      "document_id": "60807297_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 21261,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-60807297-0"
+    },
+    {
+      "document_id": "62005883_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 12779,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-62005883-0"
+    },
+    {
+      "document_id": "62005883_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 21659,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-62005883-0"
+    },
+    {
+      "document_id": "68892755_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 17443,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-68892755-0"
+    },
+    {
+      "document_id": "68892755_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 21350,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-68892755-0"
+    },
+    {
+      "document_id": "65728544_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 18035,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-65728544-0"
+    },
+    {
+      "document_id": "65728544_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 30518,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-65728544-0"
+    },
+    {
+      "document_id": "69503071_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 23777,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-69503071-0"
+    },
+    {
+      "document_id": "69503071_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 44186,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-69503071-0"
+    },
+    {
+      "document_id": "69792010_notice",
+      "type": "NOTICE",
+      "sections": 6,
+      "non_empty_sections": 6,
+      "empty_sections": [],
+      "characters": 23784,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/notice-69792010-0"
+    },
+    {
+      "document_id": "69792010_rcp",
+      "type": "RCP",
+      "sections": 30,
+      "non_empty_sections": 27,
+      "empty_sections": [
+        "4",
+        "5",
+        "6"
+      ],
+      "characters": 44164,
+      "extraction_method": "mobile_document",
+      "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-69792010-0"
+    }
+  ],
+  "finished_at": "2026-09-23T20:45:54.704668+00:00",
+  "status": "SUCCESS"
+}

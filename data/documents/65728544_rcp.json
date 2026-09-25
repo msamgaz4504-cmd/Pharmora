@@ -1,0 +1,201 @@
+{
+  "document_id": "65728544_rcp",
+  "cis": "65728544",
+  "medicine_name": "OMEPRAZOLE ZENTIVA CONSEIL 20 mg, gélule",
+  "document_type": "RCP",
+  "source": "Base de données publique des médicaments",
+  "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-65728544-0",
+  "extraction_method": "mobile_document",
+  "retrieved_at": "2026-09-23T20:45:52.670637+00:00",
+  "content_hash": "8ea71afc33d69b2203f2891b2542bfd43dc2bbe198018c85d7ce6688d755e762",
+  "character_count": 30518,
+  "section_count": 30,
+  "non_empty_section_count": 27,
+  "empty_sections": [
+    "4",
+    "5",
+    "6"
+  ],
+  "sections": [
+    {
+      "section_index": 0,
+      "section_number": "1",
+      "title": "DENOMINATION DU MEDICAMENT",
+      "text": "OMEPRAZOLE ZENTIVA CONSEIL 20 mg, gélule"
+    },
+    {
+      "section_index": 1,
+      "section_number": "2",
+      "title": "COMPOSITION QUALITATIVE ET QUANTITATIVE",
+      "text": "Oméprazole........................................................................................................................... 20 mg\nPour une gélule.\nExcipient à effet notoire :\nChaque gélule contient 225 mg de sodium.\nPour la liste complète des excipients, voir rubrique 6.1."
+    },
+    {
+      "section_index": 2,
+      "section_number": "3",
+      "title": "FORME PHARMACEUTIQUE",
+      "text": "Gélule.\nPoudre blanche à blanc cassé dans une gélule (environ 21 mm de long) comprenant un corps blanc opaque et une tête rouge sans impression."
+    },
+    {
+      "section_index": 3,
+      "section_number": "4",
+      "title": "DONNEES CLINIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 4,
+      "section_number": "4.1",
+      "title": "Indications thérapeutiques",
+      "text": "OMEPRAZOLE ZENTIVA CONSEIL est indiqué dans le traitement des symptômes de reflux (par exemple, brûlures d'estomac, régurgitations acides) chez l'adulte."
+    },
+    {
+      "section_index": 5,
+      "section_number": "4.2",
+      "title": "Posologie et mode d'administration",
+      "text": "Posologie\nAdultes\nLa dose recommandée est de 20 mg (une gélule) une fois par jour pendant 14 jours.\nIl peut être nécessaire de prendre les gélules pendant 2 à 3 jours consécutifs pour obtenir une amélioration des symptômes.\nLa majorité des patients obtiennent un soulagement complet des brûlures d'estomac dans les 7 jours. Une fois les symptômes complètement soulagés, le traitement doit être interrompu.\nPopulations particulières\nInsuffisance rénale\nAucun ajustement posologique n'est nécessaire chez les patients présentant une altération de la fonction rénale (voir rubrique 5.2).\nInsuffisance hépatique\nLes patients présentant une altération de la fonction hépatique doivent être conseillés par un médecin avant de prendre de l'oméprazole (voir rubrique 5.2).\nPersonnes âgées\nAucun ajustement posologique n'est nécessaire chez les personnes âgées (voir rubrique 5.2).\nPopulation pédiatrique\nL'utilisation d'OMEPRAZOLE ZENTIVA CONSEIL n'est pas indiquée chez les enfants et les adolescents âgés de moins de 18 ans.\nMode d'administration\nOMEPRAZOLE ZENTIVA CONSEIL doit être pris à jeun, au moins 30 minutes avant le repas et au moins 2 heures après le dernier repas (voir rubrique 5.2). La gélule doit être avalée en entier avec un demi-verre d'eau et ne doit pas être mâchée ou ouverte, afin d'obtenir le plein effet du médicament."
+    },
+    {
+      "section_index": 6,
+      "section_number": "4.3",
+      "title": "Contre-indications",
+      "text": "Hypersensibilité à la substance active, aux benzimidazoles substitués ou à l'un des excipients mentionnés à la rubrique 6.1.\nComme les autres inhibiteurs de la pompe à protons (IPP), l'oméprazole ne doit pas être utilisé en même temps que le nelfinavir (voir rubrique 4.5)."
+    },
+    {
+      "section_index": 7,
+      "section_number": "4.4",
+      "title": "Mises en garde spéciales et précautions d'emploi",
+      "text": "En présence de tout symptôme alarmant (tel qu'une perte de poids importante et involontaire, des vomissements répétés, une dysphagie, une hématémèse ou un méléna) et en cas de suspicion ou de présence d'un ulcère gastrique, l'éventualité d'une tumeur maligne doit être écartée car le traitement peut atténuer les symptômes et retarder le diagnostic.\nLa co-administration de l'atazanavir avec des inhibiteurs de la pompe à protons n'est pas recommandée (voir rubrique 4.5). Si l'association de l'atazanavir avec un inhibiteur de la pompe à protons est jugée indispensable, une surveillance clinique étroite (par exemple, surveillance de la charge virale) est recommandée en association avec une augmentation de la dose de l'atazanavir à 400 mg avec 100 mg de ritonavir ; une dose maximale de 20 mg d'oméprazole ne doit pas être dépassée.\nL'oméprazole est un inhibiteur du CYP2C19. Au début et à la fin d'un traitement par oméprazole, le risque d'interactions avec les médicaments métabolisés par le CYP2C19 doit être pris en considération. Une interaction entre le clopidogrel et l'oméprazole a été observée (voir rubrique 4.5). La pertinence clinique de cette interaction n'est pas certaine. Par mesure de précaution, l'utilisation concomitante d'oméprazole et de clopidogrel doit être déconseillée.\nDes effets indésirables cutanés sévères (EICS), notamment un syndrome de Stevens-Johnson (SSJ), une nécrolyse épidermique toxique (NET), une réaction médicamenteuse avec éosinophilie et symptômes systémiques (syndrome DRESS) et une pustulose exanthématique aiguë généralisée (PEAG), qui peuvent engager le pronostic vital ou être d'issue fatale, ont été rapportés très rarement et rarement, respectivement, en association avec le traitement par oméprazole.\nLupus érythémateux cutané subaigu (LECS)\nLes inhibiteurs de la pompe à protons sont associés à des cas très occasionnels de LECS. Si des lésions se développent, notamment sur les zones cutanées exposées au soleil, et si elles s'accompagnent d'arthralgie, le patient doit consulter un médecin rapidement et le professionnel de santé doit envisager d'arrêter OMEPRAZOLE ZENTIVA CONSEIL. La survenue d'un LECS après un traitement par inhibiteur de la pompe à protons peut augmenter le risque de LECS avec d'autres inhibiteurs de la pompe à protons.\nLe traitement par inhibiteurs de la pompe à protons peut entraîner un risque légèrement accru d'infections gastro-intestinales telles que\nSalmonella\net\nCampylobacter\net, chez les patients hospitalisés, potentiellement\nClostridium difficile\négalement (voir rubrique 5.1).\nInsuffisance rénale\nUne néphrite tubulo-interstitielle (NTI) aiguë a été observée chez des patients prenant de l'oméprazole ; elle peut survenir à tout moment au cours du traitement par oméprazole (voir rubrique 4.8). La néphrite tubulo-interstitielle aiguë peut évoluer vers une insuffisance rénale.\nL'oméprazole doit être interrompu en cas de suspicion de NTI, et un traitement approprié doit être rapidement instauré.\nInterférence avec les analyses biologiques\nL'augmentation du taux de chromogranine A (CgA) peut interférer avec les tests réalisés pour l'exploration des tumeurs neuroendocrines. Pour éviter cette interférence, le traitement par oméprazole doit être interrompu au moins 5 jours avant de mesurer le taux de CgA (voir rubrique 5.1). Si les taux de CgA et de gastrine ne se sont pas normalisés après la mesure initiale, les mesures doivent être répétées 14 jours après l'arrêt du traitement par inhibiteur de la pompe à protons.\nLes patients présentant des symptômes récurrents d'indigestion ou de brûlures d'estomac à long terme doivent consulter leur médecin à intervalles réguliers. En particulier, les patients âgés de plus de 55 ans qui prennent quotidiennement un traitement en vente libre (OTC, sans ordonnance) contre les indigestions ou les brûlures d'estomac doivent en informer leur pharmacien ou leur médecin.\nLes patients doivent être invités à consulter un médecin dans les cas suivants :\n·\nIls présentent un ulcère gastrique ou ont subi une intervention chirurgicale gastro-intestinale.\n·\nIls suivent un traitement symptomatique continu de l'indigestion ou des brûlures d'estomac depuis 4 semaines ou plus.\n·\nIls présentent un ictère ou une maladie hépatique sévère.\n·\nIls sont âgés de plus de 55 ans et présentent des symptômes nouveaux ou ayant évolué récemment.\nLes patients ne doivent pas prendre d'oméprazole à titre préventif.\nSodium\nCe médicament contient 225 mg de sodium par gélule, ce qui équivaut à 11,2 % de l'apport alimentaire quotidien maximal recommandé par l'OMS de 2 g de sodium par adulte."
+    },
+    {
+      "section_index": 8,
+      "section_number": "4.5",
+      "title": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "text": "Effets de l'oméprazole sur la pharmacocinétique d'autres substances actives\nSubstances actives dont l'absorption dépend du pH\nLa diminution de l'acidité intragastrique au cours du traitement par oméprazole peut diminuer ou augmenter l'absorption des substances actives dont l'absorption est dépendante du pH.\nNelfinavir, atazanavir\nLes concentrations plasmatiques de l'atazanavir et du nelfinavir diminuent en cas de co-administration avec l'oméprazole.\nL'administration concomitante d'oméprazole avec le nelfinavir est contre-indiquée (voir rubrique 4.3).\nLa co-administration d'oméprazole (40 mg une fois par jour) a entraîné une diminution de l'exposition moyenne au nelfinavir d'environ 40 % et une diminution de l'exposition moyenne de son métabolite pharmacologiquement actif M8 d'environ 75-90 %. L'interaction pourrait également entraîner une inhibition du CYP2C19.\nL'administration concomitante d'oméprazole avec l'atazanavir n'est pas recommandée (voir rubrique 4.4).\nL'administration concomitante d'oméprazole (40 mg une fois par jour) avec l'atazanavir 300 mg/ritonavir 100 mg, chez des volontaires sains, a entraîné une diminution de 75 % de l'exposition à l'atazanavir. L'augmentation de la dose de l'atazanavir à 400 mg n'a pas compensé l'impact de l'oméprazole sur l'exposition à l'atazanavir. La co-administration d'oméprazole (20 mg une fois par jour) avec l'atazanavir 400 mg/ritonavir 100 mg chez des volontaires sains a diminué d'environ 30 % l'exposition à l'atazanavir par rapport à l'exposition observée avec l'atazanavir 300 mg/ritonavir 100 mg une fois par jour.\nDigoxine\nUn traitement concomitant par oméprazole (20 mg par jour) et digoxine chez des sujets sains augmente la biodisponibilité de la digoxine de 10 %. La toxicité de la digoxine est rarement rapportée. Cependant, la prudence est de mise chez les patients âgés lorsque l'oméprazole est administré à des doses élevées. La surveillance thérapeutique de la digoxine doit alors être renforcée.\nClopidogrel\nLes résultats des études menées chez des sujets sains ont démontré une interaction pharmacocinétique (PK)/pharmacodynamique (PD) entre le clopidogrel (dose de charge de 300 mg suivie de 75 mg par jour en dose d'entretien) et l'oméprazole (80 mg par jour par voie orale) entraînant une diminution de l'exposition au métabolite actif du clopidogrel de 46 % en moyenne et une diminution de l'inhibition maximale de l'agrégation plaquettaire (induite par l'ADP) de 16 % en moyenne. Des données contradictoires sur les conséquences cliniques d'une interaction PK/PD de l'oméprazole en termes de survenue d'événements cardiovasculaires majeurs ont été rapportées dans des études observationnelles et cliniques. Par mesure de précaution, l'utilisation concomitante d'oméprazole et de clopidogrel doit être déconseillée (voir rubrique 4.4).\nAutres substances actives\nL'absorption du posaconazole, de l'erlotinib, du kétoconazole et de l'itraconazole est significativement diminuée et l'efficacité clinique peut donc être affaiblie. L'utilisation concomitante de posaconazole et d'erlotinib doit être évitée.\nSubstances actives métabolisées par le CYP2C19\nL'oméprazole est un inhibiteur modéré du CYP2C19, principale enzyme de métabolisation de l'oméprazole. De ce fait, lors d'une administration concomitante avec des substances actives métabolisées par le CYP2C19, la métabolisation peut être diminuée et l'exposition systémique à ces substances augmentée. Ces médicaments sont notamment la R-warfarine et les autres anti-vitamines K, le cilostazol, le diazépam et la phénytoïne.\nCilostazol\nL'oméprazole, administré à la dose de 40 mg à des sujets sains dans une étude en cross-over, a augmenté la C\nmax\net l'ASC pour le cilostazol de 18 % et 26 % respectivement, et pour l'un de ses métabolites actifs de 29 % et 69 %, respectivement.\nPhénytoïne\nIl est recommandé de surveiller les concentrations plasmatiques de phénytoïne au cours des deux premières semaines suivant l'instauration du traitement par oméprazole. Si un ajustement posologique de phénytoïne est réalisé, une surveillance et des ajustements posologiques supplémentaires pourront s'avérer nécessaires jusqu'à la fin du traitement par oméprazole.\nMécanisme inconnu\nSaquinavir\nL'administration concomitante d'oméprazole avec du saquinavir/ritonavir a entraîné une augmentation des concentrations plasmatiques d'environ 70 % pour le saquinavir, associée à une bonne tolérance chez les patients infectés par le VIH.\nTacrolimus\nIl a été rapporté que l'administration concomitante d'oméprazole augmentait les concentrations sériques de tacrolimus. Une surveillance renforcée des concentrations du tacrolimus et de la fonction rénale (clairance de la créatinine) doit être réalisée ainsi qu'un ajustement posologique du tacrolimus si nécessaire.\nMéthotrexate\nUne augmentation des taux de méthotrexate a été observée chez certains patients traités simultanément par des inhibiteurs de la pompe à protons. En cas d'administration de doses élevées de méthotrexate, il peut être prudent d'envisager un arrêt temporaire de l'oméprazole.\nEffets d'autres substances actives sur la pharmacocinétique de l'oméprazole\nInhibiteurs du CYP2C19 et/ou du CYP3A4\nEtant donné que l'oméprazole est métabolisé par le CYP2C19 et le CYP3A4, des substances actives connues pour inhiber le CYP2C19 ou le CYP3A4 (telles que la clarithromycine et le voriconazole) peuvent entraîner une augmentation des taux sériques d'oméprazole par diminution de sa métabolisation. L'administration concomitante du voriconazole a entraîné plus d'un doublement de l'exposition à l'oméprazole. L'oméprazole à doses élevées ayant été bien toléré, aucun ajustement posologique de l'oméprazole n'est généralement nécessaire. Cependant, un ajustement posologique peut s'avérer nécessaire chez les patients présentant une insuffisance hépatique sévère et si un traitement à long terme est indiqué.\nInducteurs du CYP2C19 et/ou du CYP3A4\nDes substances actives connues pour induire le CYP2C19 ou le CYP3A4 ou les deux (telles que la rifampicine et le millepertuis) peuvent entraîner une diminution des concentrations plasmatiques d'oméprazole par augmentation de sa métabolisation."
+    },
+    {
+      "section_index": 9,
+      "section_number": "4.6",
+      "title": "Fertilité, grossesse et allaitement",
+      "text": "Grossesse\nLes résultats de trois études épidémiologiques prospectives (plus de 1 000 résultats d'expositions) n'ont révélé aucun effet indésirable de l'oméprazole au cours de la grossesse ou sur la santé du fœtus/nouveau-né. L'oméprazole peut être utilisé pendant la grossesse.\nAllaitement\nL'oméprazole est excrété dans le lait maternel, mais n'a probablement pas d'influence sur l'enfant s'il est utilisé à des doses thérapeutiques.\nFertilité\nLes études effectuées chez l'animal avec le mélange racémique d'oméprazole, administré par voie orale, n'indiquent aucun effet sur la fertilité."
+    },
+    {
+      "section_index": 10,
+      "section_number": "4.7",
+      "title": "Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "text": "L'oméprazole\nn'a aucun effet ou un effet négligeable sur l'aptitude à conduire des véhicules et à utiliser des machines. Cependant, des effets indésirables tels que sensations vertigineuses et troubles de la vision peuvent survenir (voir rubrique 4.8). Dans ce cas, les patients ne doivent pas conduire de véhicules ou utiliser des machines."
+    },
+    {
+      "section_index": 11,
+      "section_number": "4.8",
+      "title": "Effets indésirables",
+      "text": "Résumé du profil de sécurité\nLes effets indésirables les plus fréquents (1-10 % des patients) sont les céphalées, les douleurs abdominales, la constipation, la diarrhée, les flatulences et les nausées/vomissements.\nDes effets indésirables cutanés sévères (EICS), notamment un syndrome de Stevens-Johnson (SSJ), une nécrolyse épidermique toxique (NET), une réaction médicamenteuse avec éosinophilie et symptômes systémiques (syndrome DRESS) et une pustulose exanthématique aiguë généralisée (PEAG), ont été rapportés en association avec le traitement par oméprazole (voir rubrique 4.4).\nTableau listant les effets indésirables\nLes effets indésirables suivants ont été rapportés ou suspectés au cours des essais cliniques de l'oméprazole et depuis sa mise sur le marché. Aucun des effets n'a été dose-dépendant. Les effets indésirables sont classés par fréquence et par classe de systèmes d'organes (SOC). La fréquence est définie selon la convention suivante : très fréquent (≥ 1/10), fréquent (≥ 1/100, < 1/10), peu fréquent (≥ 1/1 000, < 1/100), rare (≥ 1/10 000, < 1/1 000), très rare (< 1/10 000), fréquence indéterminée (ne peut être estimée sur la base des données disponibles).\nSOC/fréquence\nEffet indésirable\nAffections hématologiques et du système lymphatique\nRare\nLeucopénie, thrombopénie\nTrès rare\nAgranulocytose, pancytopénie\nAffections du système immunitaire\nRare\nRéactions d'hypersensibilité : fièvre, angiœdème et réaction/choc anaphylactique\nTroubles du métabolisme et de la nutrition\nRare\nHyponatrémie\nFréquence indéterminée\nHypomagnésémie ; une hypomagnésémie sévère peut entraîner une hypocalcémie. Une hypomagnésémie peut également être associée à une hypokaliémie.\nAffections psychiatriques\nPeu fréquent\nInsomnie\nRare\nAgitation, confusion, dépression\nTrès rare\nAgressivité, hallucinations\nAffections du système nerveux\nFréquent\nCéphalées\nPeu fréquent\nSensations vertigineuses, paresthésie, somnolence\nRare\nPerturbation du goût\nAffections oculaires\nRare\nVision trouble\nAffections de l'oreille et du labyrinthe\nPeu fréquent\nVertige\nAffections respiratoires, thoraciques et médiastinales\nRare\nBronchospasme\nAffections gastro-intestinales\nFréquent\nDouleurs abdominales, constipation, diarrhée, flatulences, nausées/vomissements, polypes des glandes fundiques (bénins)\nRare\nBouche sèche, stomatite, candidose gastro-intestinale\nFréquence indéterminée\nColite microscopique\nAffections hépatobiliaires\nPeu fréquent\nAugmentation des enzymes hépatiques\nRare\nHépatite avec ou sans ictère\nTrès rare\nInsuffisance hépatique, encéphalopathie chez des patients déjà atteints d'une maladie hépatique\nAffections de la peau et du tissu sous-cutané\nPeu fréquent\nDermatite, prurit, rash, urticaire\nRare\nAlopécie, photosensibilité, pustulose exanthématique aiguë généralisée (PEAG), réaction médicamenteuse avec éosinophilie et symptômes systémiques (syndrome DRESS)\nTrès rare\nErythème polymorphe, syndrome de Stevens-Johnson, nécrolyse épidermique toxique (NET)\nFréquence indéterminée\nLupus érythémateux cutané subaigu (voir rubrique 4.4)\nAffections musculosquelettiques et du tissu conjonctif\nRare\nArthralgie, myalgie\nTrès rare\nFaiblesse musculaire\nAffections du rein et des voies urinaires\nRare\nNéphrite tubulo-interstitielle (avec évolution possible vers une insuffisance rénale)\nAffections des organes de reproduction et du sein\nTrès rare\nGynécomastie\nTroubles généraux et anomalies au site d'administration\nPeu fréquent\nMalaise, œdème périphérique\nRare\nTranspiration augmentée\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :\nhttps://signalement.social-sante.gouv.fr/\n."
+    },
+    {
+      "section_index": 12,
+      "section_number": "4.9",
+      "title": "Surdosage",
+      "text": "Les informations disponibles concernant les effets d'un surdosage d'oméprazole chez l'être humain sont limitées. Dans la littérature, des doses allant jusqu'à 560 mg ont été décrites, et des administrations de doses uniques orales d'oméprazole allant jusqu'à 2 400 mg (120 fois la dose clinique habituelle recommandée) ont été rapportées de façon occasionnelle. Des nausées, des vomissements, des sensations vertigineuses, des douleurs abdominales, une diarrhée et des céphalées ont été rapportés. De même des cas d'apathie, de dépression et de confusion ont été décrits dans des cas isolés.\nLes symptômes décrits en rapport avec un surdosage d'oméprazole sont transitoires, et aucun effet grave n'a été rapporté. Le taux d'élimination est resté inchangé (cinétique de premier ordre) avec l'augmentation des doses. Le traitement, s'il est nécessaire, est symptomatique."
+    },
+    {
+      "section_index": 13,
+      "section_number": "5",
+      "title": "PROPRIETES PHARMACOLOGIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 14,
+      "section_number": "5.1",
+      "title": "Propriétés pharmacodynamiques",
+      "text": "Classe pharmacothérapeutique : Médicaments des troubles de l'acidité, inhibiteurs de la pompe à protons, code ATC : A02BC01\n.\nMécanisme d'action\nL'oméprazole est un mélange racémique de 2 énantiomères réduisant la sécrétion acide gastrique par un mécanisme d'action spécifiquement ciblé. C'est un inhibiteur spécifique de la pompe à protons dans la cellule pariétale. Il agit rapidement et entraîne un contrôle de la sécrétion d'acide gastrique par une inhibition réversible, avec une prise quotidienne.\nL'oméprazole est une base faible. Il est concentré et converti en forme active dans l'environnement hautement acide des canalicules intracellulaires des cellules pariétales, où il inhibe l'enzyme H\n+\nK\n+\n-ATPase (la pompe à protons). Cet effet sur l'étape finale du processus de formation de l'acidité gastrique est dépendant de la dose et entraîne une inhibition hautement efficace à la fois de la sécrétion acide basale et de la sécrétion acide stimulée, quel que soit le stimulus.\nEffets pharmacodynamiques\nTous les effets pharmacodynamiques observés peuvent être expliqués par l'effet de l'oméprazole sur la sécrétion acide.\nEffet sur la sécrétion d'acide gastrique\nL'administration orale d'oméprazole une fois par jour exerce une inhibition rapide et prolongée de la sécrétion d'acide gastrique diurne et nocturne, l'effet maximal étant obtenu en 4 jours de traitement. Sous oméprazole 20 mg, une réduction moyenne d'au moins 80 % de l'acidité intragastrique sur 24 heures se maintient ensuite chez les patients qui présentent un ulcère duodénal, tandis que la baisse moyenne du débit maximal d'acide après stimulation par la pentagastrine atteint environ 70 % 24 heures après l'administration.\nL'administration orale d'oméprazole 20 mg maintient un pH intragastrique ≥ 3 pendant une période moyenne de 17 heures sur 24 chez les patients présentant un ulcère duodénal.\nEn conséquence de la réduction de la sécrétion d'acide et de l'acidité intragastrique, l'oméprazole réduit/normalise l'exposition de l'œsophage à l'acide de manière dose-dépendante chez les patients présentant un reflux gastro-œsophagien. L'inhibition de la sécrétion d'acide est liée à l'aire sous la courbe (ASC) qui décrit l'évolution de la concentration plasmatique d'oméprazole en fonction du temps, et non pas à la concentration plasmatique immédiate réelle.\nAucune tachyphylaxie n'a été observée au cours d'un traitement par oméprazole.\nAutres effets liés à l'inhibition de l'acide\nLors d'un traitement à long terme, des kystes glandulaires gastriques ont été observés à une fréquence légèrement augmentée. Ces modifications sont une conséquence physiologique d'une inhibition prononcée de la sécrétion acide : elles sont bénignes et réversibles.\nLa diminution de l'acidité gastrique, quelle qu'en soit l'origine, y compris l'utilisation des inhibiteurs de la pompe à protons, favorise le développement de bactéries intra-gastriques normalement présentes dans le tractus gastro-intestinal. Un traitement entraînant la diminution de l'acidité peut provoquer un risque légèrement accru d'infections gastro-intestinales, telles que les infections par\nSalmonella\net par\nCampylobacter\net possiblement par\nClostridium difficile\nchez les patients hospitalisés.\nComme tous les médicaments qui bloquent l'acidité, l'oméprazole est susceptible de réduire l'absorption de la vitamine B12 (cyanocobalamine) sous l'effet d'une hypo- ou d'une achlorhydrie. Il convient d'en tenir compte chez les patients présentant des réserves réduites ou des facteurs de risque de réduction de l'absorption de la vitamine B12 sous traitement à long terme.\nPendant le traitement par des médicaments antisécrétoires, la concentration sérique de gastrine augmente en réaction à la diminution de la sécrétion acide. De même, le taux de CgA augmente en raison de la diminution de l'acidité gastrique. L'augmentation du taux de CgA peut interférer avec les tests réalisés pour l'exploration des tumeurs neuroendocrines. D'après des données publiées, la prise d'inhibiteurs de la pompe à protons doit être interrompue entre 5 jours et 2 semaines avant la mesure des taux de CgA. Cela permet un retour à la normale des taux de CgA qui auraient été artificiellement augmentés par la prise d'IPP.\nUne augmentation du nombre de cellules ECL en relation possible avec l'augmentation des concentrations sériques de la gastrine a été observée chez certains patients (à la fois des adultes et des enfants) traités par oméprazole à long terme. Ces résultats sont considérés comme n'ayant pas de signification clinique."
+    },
+    {
+      "section_index": 15,
+      "section_number": "5.2",
+      "title": "Propriétés pharmacocinétiques",
+      "text": "Absorption\nOMEPRAZOLE ZENTIVA CONSEIL est une formulation à libération immédiate d'oméprazole sous forme non enrobée. L'oméprazole étant labile à l'acide, la formulation d'OMEPRAZOLE ZENTIVA CONSEIL contient de l'hydrogénocarbonate de sodium qui neutralise le pH acide de l'estomac et protège ainsi l'oméprazole de la dégradation par l'acide, ce qui permet son absorption. L'absorption de l'oméprazole est rapide, avec un pic plasmatique survenant environ 30 minutes après l'administration de la dose d'OMEPRAZOLE ZENTIVA CONSEIL. L'absorption de l'oméprazole se produit dans l'intestin grêle et est généralement terminée en 3 à 6 heures.\nAu cours d'une étude de biodisponibilité, l'administration avec des aliments a réduit l'absorption d'environ 50 %. Par conséquent, OMEPRAZOLE ZENTIVA CONSEIL ne doit pas être pris avec de la nourriture. La disponibilité systémique (biodisponibilité) d'une dose orale unique d'oméprazole est d'environ 40 %. Après une administration quotidienne unique et répétée, la biodisponibilité s'élève à environ 60 %.\nDistribution\nLe volume de distribution apparent chez les sujets sains est d'environ 0,3 L/kg de poids corporel. L'oméprazole est lié à 97 % aux protéines plasmatiques.\nBiotransformation\nL'oméprazole est totalement métabolisé par le cytochrome P450 (CYP). La majeure partie de son métabolisme est dépendante du polymorphisme de l'enzyme CYP2C19, responsable de la formation de l'hydroxy-oméprazole, principal métabolite plasmatique. La partie restante est dépendante d'une autre isoforme spécifique, le CYP3A4, responsable de la formation de sulfone d'oméprazole. Du fait de la forte affinité de l'oméprazole pour le CYP2C19, il existe potentiellement une inhibition compétitive et des interactions médicamenteuses métaboliques avec d'autres substrats du CYP2C19. En revanche, l'oméprazole n'a pas le potentiel d'inhiber le métabolisme d'autres substrats du CYP3A4 du fait de sa faible affinité pour le CYP3A4. De plus, l'oméprazole n'a pas d'effet inhibiteur sur les principales enzymes CYP.\nEnviron 3 % de la population caucasienne et 15-20 % de la population asiatique possèdent une enzyme CYP2C19 peu fonctionnelle et sont appelés métaboliseurs lents. Chez ces individus, le métabolisme de l'oméprazole est probablement principalement réalisé par le CYP3A4. Après des administrations répétées de doses uniques quotidiennes de 20 mg d'oméprazole, l'aire sous la courbe (ASC) moyenne a été 5 à 10 fois supérieure chez les métaboliseurs lents par rapport aux sujets ayant une enzyme CYP2C19 fonctionnelle (métaboliseurs rapides). Les pics de concentrations plasmatiques moyens étaient également 3 à 5 fois plus élevés. Ces résultats n'ont aucune incidence sur la posologie de l'oméprazole.\nÉlimination\nLa demi-vie d'élimination plasmatique de l'oméprazole est habituellement inférieure à 1 heure en cas d'administration orale quotidienne, unique ou répétée. L'oméprazole est éliminé complètement du plasma entre deux administrations sans tendance à l'accumulation pour une administration quotidienne. Près de 80 % de l'administration d'une dose orale est excrété sous forme de métabolites dans les urines, le reste est excrété dans les fèces, provenant principalement de la sécrétion biliaire.\nLinéarité/non-linéarité\nL'ASC de l'oméprazole augmente avec des administrations répétées. Cette augmentation est dose-dépendante et entraîne une relation non linéaire dose-ASC après administrations répétées. Cet effet temps- et dose-dépendant est dû à une diminution du premier passage hépatique et de la clairance systémique, probablement liée à une inhibition de l'enzyme CYP2C19 par l'oméprazole et/ou ses métabolites (par exemple, sulfone).\nAucun effet des métabolites n'a été mis en évidence sur la sécrétion d'acide gastrique.\nPopulations particulières\nInsuffisance hépatique\nLe métabolisme de l'oméprazole chez des patients présentant une insuffisance hépatique est altéré, entraînant une augmentation de l'ASC. L'oméprazole n'a révélé aucune tendance à l'accumulation avec une seule prise par jour.\nInsuffisance rénale\nLa pharmacocinétique de l'oméprazole, incluant la biodisponibilité systémique et le taux d'élimination, n'est pas modifiée chez les patients présentant une altération de la fonction rénale.\nPersonnes âgées\nLe métabolisme de l'oméprazole est légèrement réduit chez les sujets âgés (75-79 ans)."
+    },
+    {
+      "section_index": 16,
+      "section_number": "5.3",
+      "title": "Données de sécurité préclinique",
+      "text": "Les études chez le rat traité à long terme avec de l'oméprazole ont révélé une hyperplasie des cellules ECL gastriques et des tumeurs carcinoïdes. Ces modifications sont le résultat d'une hypergastrinémie prolongée, secondaire à l'inhibition de la sécrétion acide. Des résultats similaires ont été obtenus après un traitement avec des antagonistes du récepteur H\n2\n, des inhibiteurs de la pompe à protons, et après fundectomie partielle. De ce fait, ces changements ne résultent pas d'un effet direct d'une quelconque substance active individuelle."
+    },
+    {
+      "section_index": 17,
+      "section_number": "6",
+      "title": "DONNEES PHARMACEUTIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 18,
+      "section_number": "6.1",
+      "title": "Liste des excipients",
+      "text": "Contenu de la gélule\nHydrogénocarbonate de sodium (E500ii), glycolate d'amidon sodique (type A), stéaryl fumarate de sodium (E485).\nEnveloppe de la gélule\nGélatine (E441), oxyde de fer rouge (E172), dioxyde de titane (E171)."
+    },
+    {
+      "section_index": 19,
+      "section_number": "6.2",
+      "title": "Incompatibilités",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 20,
+      "section_number": "6.3",
+      "title": "Durée de conservation",
+      "text": "2 ans."
+    },
+    {
+      "section_index": 21,
+      "section_number": "6.4",
+      "title": "Précautions particulières de conservation",
+      "text": "A conserver à une température ne dépassant pas 25°C. A conserver dans l'emballage d'origine, à l'abri de l'humidité."
+    },
+    {
+      "section_index": 22,
+      "section_number": "6.5",
+      "title": "Nature et contenu de l'emballage extérieur",
+      "text": "Boite de 7 ou 14 gélules sous plaquettes PVC/PVDC-Aluminium.\nToutes les présentations peuvent ne pas être commercialisées."
+    },
+    {
+      "section_index": 23,
+      "section_number": "6.6",
+      "title": "Précautions particulières d'élimination et de manipulation",
+      "text": "Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur."
+    },
+    {
+      "section_index": 24,
+      "section_number": "7",
+      "title": "TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "ZENTIVA FRANCE\n35 RUE DU VAL DE MARNE\n75013 PARIS"
+    },
+    {
+      "section_index": 25,
+      "section_number": "8",
+      "title": "NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "·\n34009 303 201 8 1 : 7 gélules sous plaquettes (PVC/PVDC/Aluminium).\n·\n34009 303 201 9 8 : 14 gélules sous plaquettes (PVC/PVDC/Aluminium)."
+    },
+    {
+      "section_index": 26,
+      "section_number": "9",
+      "title": "DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L'AUTORISATION",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 27,
+      "section_number": "10",
+      "title": "DATE DE MISE A JOUR DU TEXTE",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 28,
+      "section_number": "11",
+      "title": "DOSIMETRIE",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 29,
+      "section_number": "12",
+      "title": "INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES",
+      "text": "Sans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nMédicament non soumis à prescription médicale.\nPrécédent\nSuivant"
+    }
+  ]
+}

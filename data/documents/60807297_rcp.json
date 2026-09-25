@@ -1,0 +1,201 @@
+{
+  "document_id": "60807297_rcp",
+  "cis": "60807297",
+  "medicine_name": "CETIRIZINE EG 10 mg, comprimé pelliculé sécable",
+  "document_type": "RCP",
+  "source": "Base de données publique des médicaments",
+  "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-60807297-0",
+  "extraction_method": "mobile_document",
+  "retrieved_at": "2026-09-23T20:45:50.698733+00:00",
+  "content_hash": "75c9425d2457b449b6c1cceebde7b4ddeaaa958578858e26399ff513e1fce59d",
+  "character_count": 21261,
+  "section_count": 30,
+  "non_empty_section_count": 27,
+  "empty_sections": [
+    "4",
+    "5",
+    "6"
+  ],
+  "sections": [
+    {
+      "section_index": 0,
+      "section_number": "1",
+      "title": "DENOMINATION DU MEDICAMENT",
+      "text": "CETIRIZINE EG 10 mg, comprimé pelliculé sécable"
+    },
+    {
+      "section_index": 1,
+      "section_number": "2",
+      "title": "COMPOSITION QUALITATIVE ET QUANTITATIVE",
+      "text": "Dichlorhydrate de cétirizine.................................................................................................... 10 mg\nExcipient(s) à effet notoire : un comprimé pelliculé contient 66,40 mg de lactose monohydraté.\nPour la liste complète des excipients, voir rubrique 6.1."
+    },
+    {
+      "section_index": 2,
+      "section_number": "3",
+      "title": "FORME PHARMACEUTIQUE",
+      "text": "Comprimé pelliculé sécable."
+    },
+    {
+      "section_index": 3,
+      "section_number": "4",
+      "title": "DONNEES CLINIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 4,
+      "section_number": "4.1",
+      "title": "Indications thérapeutiques",
+      "text": "Les comprimés pelliculés de dichlorhydrate de cétirizine 10 mg sont indiqués chez\nl'adulte et l'enfant de 6 ans et plus :\n·\ndans le traitement des symptômes nasaux et oculaires des rhinites allergiques saisonnières et perannuelles ;\n·\ndans le traitement des symptômes de l'urticaire chronique idiopathique."
+    },
+    {
+      "section_index": 5,
+      "section_number": "4.2",
+      "title": "Posologie et mode d'administration",
+      "text": "Posologie\n10 mg une fois par jour (un comprimé).\nPopulations particulières\nSujets âgés\n:\nIl n'y a pas lieu d'ajuster la posologie chez le sujet âgé dont la fonction rénale est normale.\nInsuffisance rénale:\nLes données disponibles ne permettent pas de documenter le rapport bénéfice/risque en cas d'insuffisance rénale.\nCompte tenu de l'élimination essentiellement rénale de la cétirizine (\nvoir rubrique 5.2.\n), et s'il ne peut être utilisé de traitement alternatif, l'intervalle entre les prises doit être ajusté selon la fonction rénale. La posologie doit être ajustée comme indiqué dans le tableau ci-après. Pour utiliser ce tableau, il est nécessaire d'estimer la clairance de la créatinine (Clcr) du patient en ml/min. La Clcr (ml/min) peut être estimée à partir de la valeur de la créatinine sérique (en mg/dl) selon la formule suivante :\nAdaptation posologique\nchez les patients atteints d'insuffisance rénale :\nGroupe\nClairance de la créatinine (ml/min)\nDose et fréquence d'administration\nFonction rénale normale\n≥ 80\n10 mg une fois par jour\nInsuffisance rénale légère\n50 - 79\n10 mg une fois par jour\nInsuffisance rénale modérée\n30 - 49\n5 mg une fois par jour\nInsuffisance rénale sévère\n< 30\n5 mg une fois tous les 2 jours\nInsuffisance rénale en stade terminal et patients dialysés\n< 10\nContre-indiqué\nInsuffisant hépatique\nAucun ajustement de la dose n'est nécessaire chez les patients atteints d'insuffisance hépatique isolée.\nChez les patients atteints d'insuffisance hépatique associée à une insuffisance rénale, un ajustement de la dose est recommandé (voir rubrique « Insuffisance rénale» ci-dessus).\nPopulation pédiatrique\nLa forme comprimé ne doit pas être utilisée chez l'enfant de moins de 6 ans dans la mesure où elle ne permet pas les ajustements posologiques nécessaires.\nEnfants de 6 à 12 ans : 5 mg deux fois par jour (un demi comprimé deux fois par jour).\nAdolescents de plus de 12 ans : 10 mg une fois par jour (un comprimé).\nChez l'enfant présentant une insuffisance rénale, la posologie sera ajustée individuellement en fonction de la clairance rénale, de l'âge et du poids corporel du patient.\nMode d'administration\nLes comprimés doivent être avalés avec une boisson."
+    },
+    {
+      "section_index": 6,
+      "section_number": "4.3",
+      "title": "Contre-indications",
+      "text": "·\nHypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1\n, à l'hydroxyzine ou aux dérivés de la pipérazine\n;\n·\nPatients atteints d'insuffisance\nrénale sévère avec une clairance de la créatinine inférieure à 10 ml/min."
+    },
+    {
+      "section_index": 7,
+      "section_number": "4.4",
+      "title": "Mises en garde spéciales et précautions d'emploi",
+      "text": "Aux doses thérapeutiques, aucune interaction cliniquement significative n'a été mise en évidence avec la prise d'alcool (pour des concentrations sanguines d'alcool allant jusqu'à 0,5 g/l). Cependant, la prudence est recommandée en cas de prise concomitante d'alcool.\nDes précautions doivent être prises chez les patients avec des facteurs prédisposant à la rétention urinaire (par ex. lésion de la moelle épinière, hyperplasie prostatique) étant donné que la cétirizine peut augmenter le risque de rétention urinaire.\nLa cétirizine doit être administrée avec prudence chez les patients épileptiques ou à risque de convulsions.\nLa réponse aux tests allergiques cutanés est inhibée par les antihistaminiques et une période de 3 jours sans traitement est nécessaire avant de les réaliser.\nUn prurit et/ou une urticaire peuvent se déclarer lors de l'arrêt de la cétirizine, même si les symptômes n'étaient pas présents avant le début du traitement. Dans certains cas, les symptômes peuvent être intenses et nécessiter la reprise du traitement. Les symptômes devraient disparaître lors de la reprise du traitement.\nCe médicament contient du lactose. Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose et du galactose (maladies héréditaires rares) ne doivent pas prendre ce médicament.\nPopulation pédiatrique\nL'utilisation du comprimé pelliculé n'est pas recommandée chez l'enfant de moins de 6 ans car cette formulation ne permet pas l'adaptation posologique dans cette tranche d'âge. Il est recommandé d'utiliser une forme pédiatrique de cétirizine."
+    },
+    {
+      "section_index": 8,
+      "section_number": "4.5",
+      "title": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "text": "Compte tenu des données de pharmacocinétique, de pharmacodynamie et du profil de tolérance de la cétirizine, aucune interaction n'est attendue avec cet antihistaminique. A ce jour, aucune interaction pharmacodynamique ou pharmacocinétique significative n'a été rapportée lors des études d'interactions médicamenteuses réalisées notamment avec la pseudoéphédrine ou la théophylline (400 mg/jour).\nLe taux d'absorption de la cétirizine n'est pas diminué par l'alimentation, bien que la vitesse d'absorption soit réduite.\nLa prise concomitante d'alcool ou d'autres dépresseurs du système nerveux central (SNC) peut entraîner une altération de la vigilance ou des performances chez les patients sensibles, bien que la cétirizine ne potentialise pas les effets de l'alcool (à une concentration sanguine de 0,5 g/l)."
+    },
+    {
+      "section_index": 9,
+      "section_number": "4.6",
+      "title": "Fertilité, grossesse et allaitement",
+      "text": "Grossesse\nLes données prospectives recueillies concernant l'issue des grossesses exposées à la cétirizine ne suggèrent pas un potentiel toxique maternel ou embryo-fœtal supérieur à celui de la population générale.\nLes études menées chez l'animal n'ont pas révélé d'effet néfaste direct ou indirect sur la gestation, le développement embryonnaire et fœtal, la parturition et le développement post-natal.\nLa prudence est recommandée lors de la prescription chez la femme enceinte.\nAllaitement\nLa cétirizine est excrétée dans le lait maternel humain à des concentrations de l'ordre de 25 % à 90 % de celles mesurées dans le plasma, selon le moment du prélèvement par rapport à l'administration. Par conséquent, la prudence est recommandée lors de la prescription de cétirizine chez la femme qui allaite.\nFertilité\nLes données relatives à la fertilité humaine sont\nlimitées mais aucun risque n'a été identifié.\nLes données chez l'animal ne montrent pas de problème de sécurité pour la reproduction humaine."
+    },
+    {
+      "section_index": 10,
+      "section_number": "4.7",
+      "title": "Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "text": "Des mesures objectives de la capacité à conduire, du délai d'endormissement et des performances sur lignes d'assemblage n'ont pas démontré d'effets cliniquement pertinents à la dose recommandée de 10 mg.\nCependant, les patients ressentant une somnolence ne devraient pas conduire de véhicules, prendre part à des activités potentiellement dangereuses ou utiliser des machines. Ils ne devraient pas dépasser la dose recommandée et devraient tenir compte de leur réponse au médicament."
+    },
+    {
+      "section_index": 11,
+      "section_number": "4.8",
+      "title": "Effets indésirables",
+      "text": "Essais cliniques\nSynthèse\nDes effets indésirables sans gravité sur le système nerveux central, incluant somnolence, fatigue, sensations vertigineuses et céphalées ont été observés au cours des essais cliniques réalisés avec la cétirizine à la dose recommandée. Dans quelques cas, un effet paradoxal de stimulation du système nerveux central a été observé.\nMalgré un effet antagoniste sélectif des récepteurs H1 périphériques et une relativement faible activité anticholinergique, des cas isolés de difficulté mictionnelle, de problèmes d'accommodation et de sécheresse buccale ont été rapportés.\nDes cas d'anomalies de la fonction hépatique avec augmentation des enzymes hépatiques associée à une augmentation de la bilirubine ont été rapportés. Les anomalies ont régressé dans la plupart des cas avec l'arrêt du traitement par le dichlorhydrate de cétirizine.\nListe des effets indésirables\nPlus de 3200 sujets exposés à la cétirizine ont été inclus dans les essais cliniques contrôlés en double aveugle comparant la cétirizine à la posologie recommandée de 10 mg par jour, au placebo ou à d'autres antihistaminiques, pour lesquels des données quantifiées de tolérance sont disponibles.\nLes effets indésirables rapportés\nsous cétirizine 10 mg pour l'ensemble de cette population au\ncours des essais contrôlés\nversus\nplacebo avec une incidence de 1,0% ou plus, ont été les suivants:\nEffet indésirable\n(WHO-ART)\nCétirizine 10 mg\n(n = 3260)\nPlacebo\n(n = 3061)\nTroubles généraux et anomalies au site d'administration\nFatigue\n1,63%\n0,95%\nAffections du système nerveux\nSensations vertigineuses\n1,10%\n0,98%\nCéphalées\n7,42%\n8,07%\nAffections gastro-intestinales\nDouleur abdominale\n0,98%\n1,08%\nSécheresse buccale\n2,09%\n0,82%\nNausées\n1,07%\n1,14%\nAffections psychiatriques\nSomnolence\n9,63%\n5,00%\nAffections respiratoires, thoraciques et médiastinales\nPharyngite\n1,29%\n1,34%\nLa somnolence était statistiquement plus fréquente que sous placebo, mais d'intensité légère à modérée dans la majorité des cas. Des tests objectifs, validés par d'autres études, ont montré, chez le jeune volontaire sain, que les activités quotidiennes habituelles ne sont pas affectées à la dose journalière recommandée.\nPopulation pédiatrique\nLes effets indésirables rapportés avec une incidence de 1% ou plus chez les enfants âgés de 6 mois à 12 ans inclus dans les essais cliniques contrôlés\nversus\nplacebo sont les suivants :\nEffet indésirable\n(WHO-ART)\nCétirizine 10 mg\n(n = 1656)\nPlacebo\n(n = 1294)\nAffections gastro-intestinales\nDiarrhée\n1,0%\n0,6%\nAffections psychiatriques\nSomnolence\n1,8%\n1,4%\nAffections respiratoires, thoraciques et médiastinales\nRhinite\n1,4%\n1,1%\nTroubles généraux et anomalies au site d'administration\nFatigue\n1,0%\n0,3%\nEffets indésirables rapportés depuis la commercialisation\nEn plus des effets indésirables rapportés au cours des essais cliniques et listés ci-dessus,\nles effets indésirables suivants ont été rapportés depuis la commercialisation du produit.\nLes effets indésirables sont décrits selon la convention MedDRA des classes de systèmes d'organes et par une estimation de leur fréquence depuis la commercialisation.\nLes fréquences sont définies de la manière suivante : très fréquent (≥ 1/10) ; fréquent (≥ 1/100, < 1/10) ; peu fréquent (≥ 1/1000, < 1/100) ; rare (≥ 1/10 000, < 1/1000) ; très rare (< 1/10 000) ; fréquence indéterminée (ne peut être estimée sur la base des données disponibles).\nAffection hématologiques et du système lymphatique\nTrès rare: thrombocytopénie\nAffection du système immunitaire\nRare: hypersensibilité\nTrès rare: choc anaphylactique\nTroubles du métabolisme et de la nutrition\nFréquence indéterminée : augmentation de l'appétit\nAffections psychiatriques\nPeu fréquent: agitation\nRare: agressivité, confusion, dépression, hallucination, insomnie\nTrès rare: tics\nFréquence indéterminée : idées suicidaires, cauchemars\nAffections du système nerveux\nPeu fréquent: paresthésie\nRare: convulsions,\nTrès rare: dysgueusie, syncope, tremblements, dystonie, dyskinésie\nFréquence indéterminée : amnésie, troubles de la mémoire\nAffections oculaires\nTrès rare: troubles de l'accommodation, vision floue, crises oculogyres\nAffections de l'oreille et du labyrinthe\nFréquence indéterminée : vertige\nAffections cardiaques\nRare: tachycardie\nAffections gastro-intestinales\nPeu fréquent: diarrhée\nAffections hépatobiliaires\nRare: anomalie du bilan hépatique (augmentation des enzymes hépatiques: transaminases, phosphatases alcalines, gamma-GT et bilirubine)\nAffections de la peau et du tissu sous-cutané\nPeu fréquent: prurit, éruption cutanée\nRare: urticaire\nTrès rare: œdème angioneurotique, érythème pigmenté fixe\nFréquence indéterminée : pustulose exanthématique aiguë généralisée\nAffections musculosquelettiques et du tissu conjonctif\nFréquence indéterminée : arthralgie\nAffections du rein et des voies urinaires\nTrès rare: dysurie, énurésie\nFréquence indéterminée : rétention urinaire\nTroubles généraux et anomalies au site d'administration\nPeu fréquent: asthénie, malaise\nRare : œdème\nFréquence indéterminée : syndrome de sevrage, y compris prurit et démangeaisons\nInvestigations\nRare: prise de poids.\nDescription de certains effets indésirables\nDes cas de prurit (démangeaisons intenses) et/ou d'urticaire ont été rapportés après l'arrêt du traitement par cétirizine.\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr"
+    },
+    {
+      "section_index": 12,
+      "section_number": "4.9",
+      "title": "Surdosage",
+      "text": "Symptômes\nLes symptômes observés après un surdosage de cétirizine sont principalement associés à des effets sur le\nsystème nerveux central (\nSNC\n)\nou des effets suggérant une action anticholinergique.\nLes effets indésirables rapportés après la prise d'une dose au moins 5 fois supérieure à la dose quotidienne recommandée sont : confusion, diarrhée, sensations vertigineuses, fatigue, céphalées, malaise, mydriase, prurit, agitation, sédation, somnolence, stupeur, tachycardie, tremblements et rétention urinaire.\nConduite à tenir\nIl n'existe pas d'antidote connu spécifique à la cétirizine.\nEn cas de surdosage, un traitement symptomatique\nou des mesures de soutien sont recommandés.\nUn lavage gastrique peut être envisagé en cas d'ingestion récente.\nLa cétirizine n'est pas éliminée efficacement par hémodialyse."
+    },
+    {
+      "section_index": 13,
+      "section_number": "5",
+      "title": "PROPRIETES PHARMACOLOGIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 14,
+      "section_number": "5.1",
+      "title": "Propriétés pharmacodynamiques",
+      "text": "Classe pharmacothérapeutique : ANTIHISTAMINIQUES A USAGE SYSTEMIQUE/DERIVES DE LA PIPERAZINE, code ATC : R06AE07.\nMécanisme d'action\nLa cétirizine, métabolite humain de l'hydroxyzine, est un antagoniste puissant et sélectif des récepteurs H1 périphériques. Des études\nin vitro\nde liaison aux récepteurs n'ont pas révélé d'affinité mesurable pour d'autres récepteurs que les récepteurs H1.\nEffets pharmacodynamiques\nEn association aux effets anti-H1, il a été démontré que la cétirizine présente une activité anti-allergique : administrée à la dose de 10 mg une ou deux fois par jour, elle inhibe la phase retardée de recrutement des éosinophiles au niveau de la peau et du tissu conjonctif des sujets atopiques, soumis à des tests de provocation allergénique.\nEfficacité et sécurité clinique\nLes études menées chez le volontaire sain ont montré que la cétirizine, aux doses de 5 et 10 mg, inhibe fortement les réactions érythémato-papuleuses induites par des concentrations très élevées d'histamine au niveau de la peau. Cependant, la corrélation de l'efficacité avec ces observations n'est pas établie.\nDans une étude contrôlée\nversus\nplacebo menée pendant six semaines chez 186 patients présentant une rhinite allergique et un asthme léger à modéré, la cétirizine 10 mg une fois par jour a amélioré les symptômes de la rhinite sans effet sur les fonctions pulmonaires. Cette étude met en évidence la sécurité d'emploi de la cétirizine chez les patients allergiques ayant un asthme léger à modéré.\nDans une étude contrôlée\nversus\nplacebo, la cétirizine administrée à la dose quotidienne élevée de 60 mg pendant 7 jours n'a pas entraîné d'allongement statistiquement significatif de l'intervalle QT.\nA la posologie recommandée, une amélioration de qualité de vie a été démontrée chez des patients traités par cétirizine ayant une rhinite allergique perannuelle et saisonnière.\nPopulation pédiatrique\nDans une étude de 35 jours menée chez des enfants de 5 à 12 ans, il n'a pas été observé de diminution de l'effet antihistaminique (inhibition de l'érythème et des papules) de la cétirizine. A l'arrêt du traitement par la cétirizine après administration de doses répétées, la réactivité de la peau à l'histamine est rétablie en 3 jours."
+    },
+    {
+      "section_index": 15,
+      "section_number": "5.2",
+      "title": "Propriétés pharmacocinétiques",
+      "text": "Absorption\nLe pic des concentrations plasmatiques mesuré à l'état d'équilibre est d'environ 300 ng/ml et est atteint en 1,0 ± 0,5 h. La distribution des valeurs mesurées des paramètres pharmacocinétiques, tels que le pic plasmatique (C\nmax\n) et l'aire sous la courbe (AUC), est unimodale.\nLa biodisponibilité de la cétirizine n'est pas modifiée par la prise alimentaire, bien que la vitesse d'absorption soit diminuée.\nLa biodisponibilité de la cétirizine est équivalente lorsque la cétirizine est administrée sous forme de solution, gélule ou comprimé.\nDistribution\nLe volume\napparent\nde distribution est de 0,50 l/kg. La liaison aux protéines plasmatiques de la cétirizine est de 93 ± 0,3%.\nLa cétirizine ne modifie pas la liaison de la warfarine aux protéines.\nBiotransformation\nLa cétirizine ne subit pas d'effet important de premier passage hépatique.\nElimination\nLa demi-vie plasmatique terminale de la cétirizine est d'environ 10 heures et aucune accumulation de cétirizine n'est observée après administration de doses journalières de 10 mg pendant 10 jours. Environ les deux tiers de la dose administrée sont éliminés sous forme inchangée dans les urines.\nLinéarité/non-linéarité\nLa cinétique de la cétirizine est linéaire pour des doses comprises entre 5 et 60 mg.\nInsuffisance rénale :\nla pharmacocinétique de la molécule était similaire chez les patients ayant une insuffisance rénale légère (clairance de la créatinine supérieure à 40 ml/min) et chez les volontaires sains. Chez les patients avec une insuffisance rénale modérée, la demi-vie était augmentée d'un facteur de 3 et la clairance était diminuée de 70 % par rapport aux volontaires sains.\nChez les patients hémodialysés (clairance de la créatinine inférieure à 7 ml/min), la demi-vie était augmentée d'un facteur de 3 et la clairance était diminuée de 70 % par rapport aux sujets sains après administration d'une dose orale unique de 10 mg de cétirizine. La cétirizine n'était que très faiblement éliminée par hémodialyse. Un ajustement de la posologie est nécessaire en cas d'insuffisance rénale modérée ou sévère (voir rubrique 4.2).\nInsuffisance hépatique\n: chez des patients atteints de maladies chroniques du foie (cirrhose d'origine hépatocellulaire, cholestatique et biliaire) recevant une dose unique de 10 ou 20 mg de cétirizine, la demi-vie était augmentée de 50 % avec une diminution de 40 % de la clairance comparativement aux sujets sains.\nL'ajustement de la posologie est nécessaire en cas d'insuffisance hépatique seulement en cas d'insuffisance rénale associée.\nSujets âgés\n: après administration orale d'une dose unique de 10 mg de cétirizine chez 16 sujets âgés, la demi-vie a augmenté d'environ 50 % et la clairance a diminué de 40% en comparaison aux sujets\nplus jeunes\n. La diminution de la clairance de la cétirizine chez ces sujets volontaires âgés semble liée à l'altération de leur fonction rénale.\nPopulation pédiatrique : la demi-vie de la cétirizine est d'environ 6 heures chez les enfants de 6 à 12 ans et de 5 heures chez les enfants de 2 à 6 ans. Chez les nourrissons et les jeunes enfants âgés de 6 à 24 mois, celle-ci est réduite à 3,1 heures."
+    },
+    {
+      "section_index": 16,
+      "section_number": "5.3",
+      "title": "Données de sécurité préclinique",
+      "text": "Les données non cliniques, issues des études conventionnelles, de pharmacologie de sécurité, toxicologie en administration répétée, génotoxicité, cancérogénèse et des fonctions de reproduction et de développement, n'ont pas révélé de risque particulier pour l'Homme."
+    },
+    {
+      "section_index": 17,
+      "section_number": "6",
+      "title": "DONNEES PHARMACEUTIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 18,
+      "section_number": "6.1",
+      "title": "Liste des excipients",
+      "text": "Noyau : lactose monohydraté, cellulose microcristalline, silice colloïdale anhydre, stéarate de magnésium.\nPelliculage : OPADRY Y-1-7000 (dioxyde de titane (E171), hypromellose, macrogol 400)."
+    },
+    {
+      "section_index": 19,
+      "section_number": "6.2",
+      "title": "Incompatibilités",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 20,
+      "section_number": "6.3",
+      "title": "Durée de conservation",
+      "text": "5 ans."
+    },
+    {
+      "section_index": 21,
+      "section_number": "6.4",
+      "title": "Précautions particulières de conservation",
+      "text": "Ce médicament ne nécessite aucune précaution particulière de conservation."
+    },
+    {
+      "section_index": 22,
+      "section_number": "6.5",
+      "title": "Nature et contenu de l'emballage extérieur",
+      "text": "15 comprimés sous plaquettes (Aluminium/PVC/PVDC)."
+    },
+    {
+      "section_index": 23,
+      "section_number": "6.6",
+      "title": "Précautions particulières d'élimination et de manipulation",
+      "text": "Pas d'exigences particulières."
+    },
+    {
+      "section_index": 24,
+      "section_number": "7",
+      "title": "TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "EG LABO - LABORATOIRES EUROGENERICS\nCENTRAL PARK\n9-15 RUE MAURICE MALLET\n92130 ISSY-LES-MOULINEAUX"
+    },
+    {
+      "section_index": 25,
+      "section_number": "8",
+      "title": "NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "·\n34009 362 661 6 1 : 15 comprimés sous plaquettes (Aluminium/PVC/PVDC)."
+    },
+    {
+      "section_index": 26,
+      "section_number": "9",
+      "title": "DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L'AUTORISATION",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 27,
+      "section_number": "10",
+      "title": "DATE DE MISE A JOUR DU TEXTE",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 28,
+      "section_number": "11",
+      "title": "DOSIMETRIE",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 29,
+      "section_number": "12",
+      "title": "INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES",
+      "text": "Sans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nListe II.\nPrécédent\nSuivant"
+    }
+  ]
+}

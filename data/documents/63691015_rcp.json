@@ -1,0 +1,201 @@
+{
+  "document_id": "63691015_rcp",
+  "cis": "63691015",
+  "medicine_name": "IBUPROFENE ARROW 5 %, gel",
+  "document_type": "RCP",
+  "source": "Base de données publique des médicaments",
+  "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-63691015-0",
+  "extraction_method": "mobile_document",
+  "retrieved_at": "2026-09-23T20:45:47.497134+00:00",
+  "content_hash": "6bc26ded6ef6b67a8714543d4fb5bb9ce84b369f1c740b2259c0e1a1bd7fa322",
+  "character_count": 11669,
+  "section_count": 30,
+  "non_empty_section_count": 27,
+  "empty_sections": [
+    "4",
+    "5",
+    "6"
+  ],
+  "sections": [
+    {
+      "section_index": 0,
+      "section_number": "1",
+      "title": "DENOMINATION DU MEDICAMENT",
+      "text": "IBUPROFENE ARROW 5 %, gel"
+    },
+    {
+      "section_index": 1,
+      "section_number": "2",
+      "title": "COMPOSITION QUALITATIVE ET QUANTITATIVE",
+      "text": "Ibuprofène............................................................................................................................. 5,00 g\nPour 100 g de gel\nExcipients à effet notoire : alcool benzylique 10 mg/g, propylène glycol 30 mg/g.\nPour la liste complète des excipients, voir rubrique 6.1."
+    },
+    {
+      "section_index": 2,
+      "section_number": "3",
+      "title": "FORME PHARMACEUTIQUE",
+      "text": "Gel."
+    },
+    {
+      "section_index": 3,
+      "section_number": "4",
+      "title": "DONNEES CLINIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 4,
+      "section_number": "4.1",
+      "title": "Indications thérapeutiques",
+      "text": "Traitement symptomatique local de courte durée, chez l'adulte et l'enfant de plus de 15 ans :\n·\ntraumatologie bénigne : entorses (foulures), contusions,\n·\ntendinites superficielles, après avis médical."
+    },
+    {
+      "section_index": 5,
+      "section_number": "4.2",
+      "title": "Posologie et mode d'administration",
+      "text": "RESERVE A l'ADULTE (PLUS DE 15 ANS).\nVoie locale.\nPosologie\n1 application, 3 fois par jour.\nMode d'administration\nAppliquer le gel par un massage doux et prolongé, sur la région douloureuse ou inflammatoire. Bien se laver les mains après chaque utilisation.\nDurée du traitement\nLa durée de traitement est limitée à 5 jours."
+    },
+    {
+      "section_index": 6,
+      "section_number": "4.3",
+      "title": "Contre-indications",
+      "text": "Ce médicament est contre-indiqué dans les situations suivantes :\n·\nhypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1 ;\n·\nantécédent d'allergie ou d'asthme déclenché par la prise d'ibuprofène ou de substances d'activité proche telles que d'autres AINS, aspirine ;\n·\ngrossesse, à partir du début du 6\nème\nmois (au-delà de 24 semaines d'aménorrhée) (voir rubrique 4.6) ;\n·\npeau lésée, quelle que soit la lésion : dermatoses suintantes, eczéma, lésion infectée, brûlure ou plaie."
+    },
+    {
+      "section_index": 7,
+      "section_number": "4.4",
+      "title": "Mises en garde spéciales et précautions d'emploi",
+      "text": "·\nEn l'absence d'études spécifiques d'innocuité menées chez l'enfant, ce médicament est réservé à l'adulte (plus de 15 ans).\n·\nNe pas appliquer sur les muqueuses, ni sur les yeux.\n·\nL'apparition d'une réaction cutanée après application du gel impose l'arrêt immédiat du traitement.\n·\nL'ibuprofène par voie orale pouvant aggraver une insuffisance rénale préexistante ou un ulcère gastroduodénal en évolution, ce médicament doit être utilisé sur avis médical en cas d'antécédent rénaux.\n·\nBien se laver les mains après chaque utilisation.\n·\nLe port de gants par le masseur kinésithérapeute, en cas d'utilisation intensive, est recommandé.\nRéactions indésirables cutanées sévères (SCAR)\nDes réactions indésirables cutanées sévères (SCAR) tels que la dermatite exfoliative, l'érythème polymorphe, le syndrome de Stevens-Johnson (SJS), la nécrolyse épidermique toxique (NET), la réaction médicamenteuse avec éosinophilie et symptômes systémiques (DRESS ou syndrome d'hypersensibilité) et la pustulose exanthématique aiguë généralisée (PEAG), qui peuvent engager le pronostic vital ou être fatales, ont été rapportées en association avec l'utilisation d'ibuprofène (voir rubrique 4.8). La plupart de ces réactions sont survenues au cours du premier mois de traitement.\nEn cas d'apparition de signes et de symptômes évocateurs de ces réactions, la prise d'ibuprofène doit être immédiatement interrompue et un autre traitement doit être envisagé (le cas échéant).\nExcipients à effet notoire\nCe médicament contient 10 mg d'alcool benzylique par gramme de gel. L'alcool benzylique peut provoquer des réactions allergiques et une légère irritation locale.\nCe médicament contient 30 mg de propylène glycol par gramme de gel."
+    },
+    {
+      "section_index": 8,
+      "section_number": "4.5",
+      "title": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "text": "En raison du faible passage systémique lors d'un usage normal du gel, les interactions médicamenteuses signalées pour l'ibuprofène\nper os\nsont peu probables."
+    },
+    {
+      "section_index": 9,
+      "section_number": "4.6",
+      "title": "Fertilité, grossesse et allaitement",
+      "text": "Grossesse\nL'inhibition de la synthèse des prostaglandines par les AINS peut affecter le déroulement de la grossesse et/ou le développement de l'embryon ou du fœtus.\nRisques associés à l'utilisation au cours du 1\ner\ntrimestre\nLes données des études épidémiologiques suggèrent une augmentation du risque de fausse-couche, de malformations cardiaques et de gastroschisis, après traitement par un inhibiteur de la synthèse des prostaglandines en début de grossesse. Le risque absolu de malformation cardiovasculaire est passé de moins de 1 % dans la population générale, à approximativement 1,5 % chez les personnes exposées aux AINS. Le risque paraît augmenter en fonction de la dose et de la durée du traitement. Chez l'animal, il a été montré que l'administration d'un inhibiteur de la synthèse des prostaglandines provoquait une perte pré et post-implantatoire accrue et une augmentation de la létalité embryofoetale. De plus, une incidence supérieure de certaines malformations, y compris cardiovasculaires, a été rapportée chez des animaux ayant reçu un inhibiteur de la synthèse des prostaglandines au cours de la phase d'organogénèse de la gestation.\nRisques associés à l'utilisation à partir de la 12\nème\nsemaine d'aménorrhée et jusqu'à la naissance\nA partir de la 12\nème\nsemaine d'aménorrhée et jusqu'à la naissance, tous les AINS, par l'inhibition de la synthèse des prostaglandines, peuvent exposer le fœtus à\nune atteinte fonctionnelle rénale\n:\no\nin utero\npouvant s'observer dès 12 semaines d'aménorrhée (mise en route de la diurèse fœtale) : oligoamnios (le plus souvent réversible à l'arrêt du traitement), voire anamnios en particulier lors d'une exposition prolongée ;\no\nà la naissance, une insuffisance rénale (réversible ou non) peut persister en particulier en cas d'exposition tardive et prolongée (avec un risque d'hyperkaliémie sévère retardée).\nRisques associés à l'utilisation au-delà de la 24\nème\nsemaine d'aménorrhée et jusqu'à la naissance\nAu-delà de la 24\nème\nsemaine d'aménorrhée, les AINS peuvent exposer le fœtus à\nune toxicité cardio-pulmonaire\n(fermeture prématurée du canal artériel et hypertension artérielle pulmonaire). La constriction du canal artériel peut survenir à partir du début du 6\nème\nmois (au-delà de la 24\nème\nsemaine d'aménorrhée) et peut conduire à une insuffisance cardiaque droite fœtale ou néonatale voire à une mort fœtale in utero. Ce risque est d'autant plus important que la prise est proche du terme (moindre réversibilité). Cet effet existe même pour une prise ponctuelle.\nEn fin de grossesse, la mère et le nouveau-né peuvent présenter :\n·\nun allongement du temps de saignement du fait d'une action anti-agrégante pouvant survenir même après administration de très faibles doses de médicament ;\n·\nune inhibition des contractions utérines entraînant un retard de terme ou un accouchement prolongé.\nEn conséquence\nSauf nécessité absolue, ce médicament ne doit pas être prescrit chez une femme qui envisage une grossesse ou au cours des 5 premiers mois de grossesse (24 premières semaines d'aménorrhée). Si ce médicament est administré chez une femme souhaitant être enceinte ou enceinte de moins de 6 mois, la dose devra être la plus faible possible et la durée du traitement la plus courte possible. Une prise prolongée est fortement déconseillée.\nA partir du début du 6\nème\nmois (au-delà de 24 semaines d'aménorrhée) : toute prise de ce médicament, même ponctuelle, est contre-indiquée. Une prise par mégarde à partir de cette date justifie une surveillance cardiaque et rénale, fœtale et/ou néonatale selon le terme d'exposition. La durée de cette surveillance sera adaptée à la demi-vie d'élimination de la molécule.\nAllaitement\nLes AINS passant dans le lait maternel, ce médicament est déconseillé chez la femme qui allaite.\nEn cas d'allaitement, ce médicament ne doit en aucun cas être appliqué sur la poitrine.\nFertilité\nComme tous les AINS, l'utilisation de ce médicament peut temporairement altérer la fertilité féminine en agissant sur l'ovulation ; il est donc déconseillé chez les femmes souhaitant concevoir un enfant. Chez les femmes rencontrant des difficultés pour concevoir ou réalisant des tests de fertilité, l'arrêt du traitement doit être envisagé."
+    },
+    {
+      "section_index": 10,
+      "section_number": "4.7",
+      "title": "Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 11,
+      "section_number": "4.8",
+      "title": "Effets indésirables",
+      "text": "·\nEffets indésirables liés à la voie d'administration :\no\nréactions cutanées locales d'hypersensibilité de type prurit ou érythème localisé.\n·\nRéactions d'hypersensibilité :\no\ndermatologiques,\no\nréactions de photosensibilité (fréquence indéterminée),\no\nrespiratoires : la survenue de crise d'asthme peut être liée chez certains sujets à une allergie à l'aspirine ou à un AINS (\nvoir rubrique 4.3\n),\no\ngénérales : réactions de type anaphylactique.\n·\nAffections de la peau et du tissu sous-cutané :\no\nréactions indésirables cutanées sévères (SCAR) (y compris érythème polymorphe, dermatite exfoliative, syndrome de Stevens-Johnson et nécrolyse épidermique toxique) (très rare),\no\nréaction d'hypersensibilité médicamenteuse avec éosinophilie et symptômes systémiques (DRESS ou syndrome d'hypersensibilité) (fréquence indéterminée),\no\npustulose exanthématique aiguë généralisée (PEAG) (fréquence indéterminée).\n·\nAutres effets systémiques des AINS :\no\nils sont fonction du passage transdermique du principe actif et donc de la quantité du gel appliquée, de la surface traitée, du degré d'intégrité cutanée, de la durée de traitement et de l'utilisation ou non d'un pansement occlusif (effets digestifs, rénaux).\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :\nhttps://signalement.social-sante.gouv.fr/\n."
+    },
+    {
+      "section_index": 12,
+      "section_number": "4.9",
+      "title": "Surdosage",
+      "text": "En cas de surdosage, rincer abondamment à l'eau.\nL'application de trop fortes doses peut entraîner l'exacerbation des effets indésirables."
+    },
+    {
+      "section_index": 13,
+      "section_number": "5",
+      "title": "PROPRIETES PHARMACOLOGIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 14,
+      "section_number": "5.1",
+      "title": "Propriétés pharmacodynamiques",
+      "text": "Classe pharmacothérapeutique : anti-inflammatoire non stéroïdien à usage topique, code ATC : M02AA13.\nL'ibuprofène est un anti-inflammatoire non stéroïdien du groupe des propioniques, dérivé de l'acide aryl-carboxylique.\nSous forme de gel pour application cutanée, il possède une activité anti-inflammatoire et antalgique."
+    },
+    {
+      "section_index": 15,
+      "section_number": "5.2",
+      "title": "Propriétés pharmacocinétiques",
+      "text": "La biodisponibilité relative du gel à 5 % d'ibuprofène par rapport à une administration orale est de 5 à 7,4 %."
+    },
+    {
+      "section_index": 16,
+      "section_number": "5.3",
+      "title": "Données de sécurité préclinique",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 17,
+      "section_number": "6",
+      "title": "DONNEES PHARMACEUTIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 18,
+      "section_number": "6.1",
+      "title": "Liste des excipients",
+      "text": "Alcool isopropylique, alcool benzylique, propylèneglycol, hydroxyéthylcellulose, hydroxyde de sodium, eau purifiée."
+    },
+    {
+      "section_index": 19,
+      "section_number": "6.2",
+      "title": "Incompatibilités",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 20,
+      "section_number": "6.3",
+      "title": "Durée de conservation",
+      "text": "3 ans.\nAprès la première ouverture : à conserver maximum 1 mois."
+    },
+    {
+      "section_index": 21,
+      "section_number": "6.4",
+      "title": "Précautions particulières de conservation",
+      "text": "Ce médicament ne nécessite pas de précautions particulières de conservation."
+    },
+    {
+      "section_index": 22,
+      "section_number": "6.5",
+      "title": "Nature et contenu de l'emballage extérieur",
+      "text": "60 g en tube (Aluminium)."
+    },
+    {
+      "section_index": 23,
+      "section_number": "6.6",
+      "title": "Précautions particulières d'élimination et de manipulation",
+      "text": "Pas d'exigences particulières."
+    },
+    {
+      "section_index": 24,
+      "section_number": "7",
+      "title": "TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "ARROW GENERIQUES\n26 AVENUE TONY GARNIER\n69007 LYON"
+    },
+    {
+      "section_index": 25,
+      "section_number": "8",
+      "title": "NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "·\n34009 376 226 5 3 : 60 g en tube (Aluminium)."
+    },
+    {
+      "section_index": 26,
+      "section_number": "9",
+      "title": "DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L'AUTORISATION",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 27,
+      "section_number": "10",
+      "title": "DATE DE MISE A JOUR DU TEXTE",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 28,
+      "section_number": "11",
+      "title": "DOSIMETRIE",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 29,
+      "section_number": "12",
+      "title": "INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES",
+      "text": "Sans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nMédicament non soumis à prescription médicale.\nPrécédent\nSuivant"
+    }
+  ]
+}

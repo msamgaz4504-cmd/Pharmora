@@ -1,0 +1,670 @@
+[
+  {
+    "cis": "67119691",
+    "name": "DOLIPRANE 500 mg, gélule",
+    "pharmaceutical_form": "gélule",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "14/11/1997",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "OPELLA HEALTHCARE FRANCE",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "02202",
+        "substance_name": "PARACÉTAMOL",
+        "strength": "500 mg",
+        "strength_reference": "une gélule",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3450778",
+        "label": "plaquette(s) thermoformée(s) PVC aluminium de 16 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "19/03/1998",
+        "cip13": "3400934507786"
+      },
+      {
+        "cip7": "5608261",
+        "label": "plaquette(s) thermoformée(s) PVC aluminium de 100 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "19/12/1999",
+        "cip13": "3400956082612"
+      }
+    ]
+  },
+  {
+    "cis": "69309629",
+    "name": "DOLIPRANE 1000 mg, gélule",
+    "pharmaceutical_form": "gélule",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "25/02/2011",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "OPELLA HEALTHCARE FRANCE",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "02202",
+        "substance_name": "PARACÉTAMOL",
+        "strength": "1000 mg",
+        "strength_reference": "une gélule",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "4153396",
+        "label": "plaquette(s) thermoformée(s) PVC-Aluminium de 8 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "30/11/2011",
+        "cip13": "3400941533969"
+      }
+    ]
+  },
+  {
+    "cis": "63368332",
+    "name": "DOLIPRANE 500 mg, comprimé",
+    "pharmaceutical_form": "comprimé",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "26/04/1996",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "OPELLA HEALTHCARE FRANCE",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "comprimé",
+        "substance_code": "02202",
+        "substance_name": "PARACÉTAMOL",
+        "strength": "500 mg",
+        "strength_reference": "un comprimé",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3232018",
+        "label": "plaquette(s) thermoformée(s) PVC-Aluminium de 16 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "19/02/1981",
+        "cip13": "3400932320189"
+      },
+      {
+        "cip7": "5547335",
+        "label": "10 plaquette(s) thermoformée(s) papier aluminium polyéthylène de 10 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "19/05/1984",
+        "cip13": "3400955473350"
+      }
+    ]
+  },
+  {
+    "cis": "67459306",
+    "name": "AMOXICILLINE BENTA 500 mg, gélule",
+    "pharmaceutical_form": "gélule",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "25/04/2019",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "BENTA (FRANCE)",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "05248",
+        "substance_name": "AMOXICILLINE",
+        "strength": "500 mg",
+        "strength_reference": "une gélule",
+        "component_type": "FT"
+      },
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "28165",
+        "substance_name": "AMOXICILLINE TRIHYDRATÉE",
+        "strength": "",
+        "strength_reference": "",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3017861",
+        "label": "plaquette(s) PVC-Aluminium de 12 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "17/07/2025",
+        "cip13": "3400930178614"
+      }
+    ]
+  },
+  {
+    "cis": "67410088",
+    "name": "AMOXICILLINE SANDOZ 500 mg, gélule",
+    "pharmaceutical_form": "gélule",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "10/10/1996",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "SANDOZ",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "05248",
+        "substance_name": "AMOXICILLINE",
+        "strength": "500 mg",
+        "strength_reference": "une gélule",
+        "component_type": "FT"
+      },
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "28165",
+        "substance_name": "AMOXICILLINE TRIHYDRATÉE",
+        "strength": "",
+        "strength_reference": "",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3679601",
+        "label": "plaquette(s) PVC PVDC aluminium de 12 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "14/12/2005",
+        "cip13": "3400936796010"
+      }
+    ]
+  },
+  {
+    "cis": "64529639",
+    "name": "AMOXICILLINE EG LABO 500 mg, gélule",
+    "pharmaceutical_form": "gélule",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "23/12/2016",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "05248",
+        "substance_name": "AMOXICILLINE",
+        "strength": "500 mg",
+        "strength_reference": "une gélule",
+        "component_type": "FT"
+      },
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "28165",
+        "substance_name": "AMOXICILLINE TRIHYDRATÉE",
+        "strength": "",
+        "strength_reference": "",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3007657",
+        "label": "plaquette(s) PVC aluminium de 12 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration d'arrêt de commercialisation",
+        "commercialization_date": "02/02/2022",
+        "cip13": "3400930076576"
+      },
+      {
+        "cip7": "3021991",
+        "label": "plaquette(s) PVC TE (thermo-élastique) PVDC aluminium de 12 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "02/02/2022",
+        "cip13": "3400930219911"
+      }
+    ]
+  },
+  {
+    "cis": "63691015",
+    "name": "IBUPROFENE ARROW 5 %, gel",
+    "pharmaceutical_form": "gel",
+    "administration_routes": [
+      "cutanée"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "19/09/2006",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "ARROW GENERIQUES",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gel",
+        "substance_code": "02092",
+        "substance_name": "IBUPROFÈNE",
+        "strength": "5 g",
+        "strength_reference": "100 g de gel",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3762265",
+        "label": "1 tube(s) aluminium de 60 g",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "26/11/2007",
+        "cip13": "3400937622653"
+      }
+    ]
+  },
+  {
+    "cis": "67913552",
+    "name": "IBUPROFENE EG 200 mg, comprimé pelliculé",
+    "pharmaceutical_form": "comprimé pelliculé",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "30/06/2004",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "comprimé",
+        "substance_code": "02092",
+        "substance_name": "IBUPROFÈNE",
+        "strength": "200 mg",
+        "strength_reference": "un comprimé",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3016216",
+        "label": "plaquette(s) PVC-Aluminium de 20 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "17/07/2019",
+        "cip13": "3400930162163"
+      },
+      {
+        "cip7": "3647593",
+        "label": "plaquette(s) PVC-Aluminium de 30 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "25/09/2004",
+        "cip13": "3400936475939"
+      }
+    ]
+  },
+  {
+    "cis": "60550988",
+    "name": "IBUPROFENE EG 400 mg, comprimé pelliculé",
+    "pharmaceutical_form": "comprimé pelliculé",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "22/11/1993",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "comprimé",
+        "substance_code": "02092",
+        "substance_name": "IBUPROFÈNE",
+        "strength": "400 mg",
+        "strength_reference": "un comprimé",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3368195",
+        "label": "plaquette(s) thermoformée(s) PVC aluminium de 30 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "20/11/2004",
+        "cip13": "3400933681951"
+      }
+    ]
+  },
+  {
+    "cis": "60807297",
+    "name": "CETIRIZINE EG 10 mg, comprimé pelliculé sécable",
+    "pharmaceutical_form": "comprimé pelliculé sécable",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "30/09/2003",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "comprimé",
+        "substance_code": "60929",
+        "substance_name": "DICHLORHYDRATE DE CÉTIRIZINE",
+        "strength": "10 mg",
+        "strength_reference": "un comprimé",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3626616",
+        "label": "plaquette(s) thermoformée(s) aluminium PVC PVDC de 15 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "14/12/2004",
+        "cip13": "3400936266162"
+      }
+    ]
+  },
+  {
+    "cis": "62005883",
+    "name": "CETIRIZINE ALMUS 10 mg, comprimé pelliculé sécable",
+    "pharmaceutical_form": "comprimé pelliculé sécable",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "01/08/2011",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "BIOGARAN",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "comprimé",
+        "substance_code": "60929",
+        "substance_name": "DICHLORHYDRATE DE CÉTIRIZINE",
+        "strength": "10 mg",
+        "strength_reference": "un comprimé",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "4194656",
+        "label": "plaquette(s) PVC PVDC aluminium de 15 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "28/11/2011",
+        "cip13": "3400941946561"
+      }
+    ]
+  },
+  {
+    "cis": "68892755",
+    "name": "CETIRIZINE EG LABO CONSEIL 10 mg, comprimé à sucer",
+    "pharmaceutical_form": "comprimé à sucer",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "24/11/2005",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "comprimé",
+        "substance_code": "60929",
+        "substance_name": "DICHLORHYDRATE DE CÉTIRIZINE",
+        "strength": "10 mg",
+        "strength_reference": "un comprimé",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3708107",
+        "label": "plaquette(s) thermoformée(s) aluminium de 7 comprimé(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "11/08/2010",
+        "cip13": "3400937081078"
+      }
+    ]
+  },
+  {
+    "cis": "65728544",
+    "name": "OMEPRAZOLE ZENTIVA CONSEIL 20 mg, gélule",
+    "pharmaceutical_form": "gélule",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure décentralisée",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "27/05/2025",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "ZENTIVA FRANCE",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "04773",
+        "substance_name": "OMÉPRAZOLE",
+        "strength": "20 mg",
+        "strength_reference": "une gélule",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "3032018",
+        "label": "plaquette(s) PVC PVDC aluminium de 7 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "17/12/2025",
+        "cip13": "3400930320181"
+      },
+      {
+        "cip7": "3032019",
+        "label": "plaquette(s) PVC PVDC aluminium de 14 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "17/12/2025",
+        "cip13": "3400930320198"
+      }
+    ]
+  },
+  {
+    "cis": "69503071",
+    "name": "OMEPRAZOLE EG 10 mg, gélule gastro-résistante",
+    "pharmaceutical_form": "gélule gastro-résistant(e)",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "06/12/2010",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "04773",
+        "substance_name": "OMÉPRAZOLE",
+        "strength": "10 mg",
+        "strength_reference": "une gélule",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "4976459",
+        "label": "plaquette(s) aluminium de 14 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "08/09/2022",
+        "cip13": "3400949764594"
+      },
+      {
+        "cip7": "4976465",
+        "label": "plaquette(s) aluminium de 28 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "15/09/2022",
+        "cip13": "3400949764655"
+      },
+      {
+        "cip7": "4976502",
+        "label": "flacon(s) polyéthylène haute densité (PEHD) de 14 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration d'arrêt de commercialisation",
+        "commercialization_date": "05/09/2022",
+        "cip13": "3400949765027"
+      },
+      {
+        "cip7": "4976525",
+        "label": "flacon(s) polyéthylène haute densité (PEHD) de 28 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration d'arrêt de commercialisation",
+        "commercialization_date": "15/09/2022",
+        "cip13": "3400949765256"
+      }
+    ]
+  },
+  {
+    "cis": "69792010",
+    "name": "OMEPRAZOLE EG 20 mg, gélule gastro-résistante",
+    "pharmaceutical_form": "gélule gastro-résistant(e)",
+    "administration_routes": [
+      "orale"
+    ],
+    "authorization_status": "Autorisation active",
+    "authorization_type": "Procédure nationale",
+    "commercialization_status": "Commercialisée",
+    "authorization_date": "06/12/2010",
+    "bdpm_status": "",
+    "authorization_number_eu": "",
+    "holder": "EG LABO - LABORATOIRES EUROGENERICS",
+    "enhanced_monitoring": "Non",
+    "active_substances": [
+      {
+        "pharmaceutical_element": "gélule",
+        "substance_code": "04773",
+        "substance_name": "OMÉPRAZOLE",
+        "strength": "20 mg",
+        "strength_reference": "une gélule",
+        "component_type": "SA"
+      }
+    ],
+    "presentations": [
+      {
+        "cip7": "4976560",
+        "label": "plaquette(s) aluminium de 7 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "30/09/2022",
+        "cip13": "3400949765607"
+      },
+      {
+        "cip7": "4976577",
+        "label": "plaquette(s) aluminium de 14 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "30/09/2022",
+        "cip13": "3400949765775"
+      },
+      {
+        "cip7": "4976583",
+        "label": "plaquette(s) aluminium de 28 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration de commercialisation",
+        "commercialization_date": "08/09/2022",
+        "cip13": "3400949765836"
+      },
+      {
+        "cip7": "4976620",
+        "label": "flacon(s) polyéthylène haute densité (PEHD) de 7 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration d'arrêt de commercialisation",
+        "commercialization_date": "30/09/2022",
+        "cip13": "3400949766208"
+      },
+      {
+        "cip7": "4976637",
+        "label": "flacon(s) polyéthylène haute densité (PEHD) de 14 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration d'arrêt de commercialisation",
+        "commercialization_date": "30/09/2022",
+        "cip13": "3400949766376"
+      },
+      {
+        "cip7": "4976666",
+        "label": "flacon(s) polyéthylène haute densité (PEHD) de 28 gélule(s)",
+        "administrative_status": "Présentation active",
+        "commercialization_status": "Déclaration d'arrêt de commercialisation",
+        "commercialization_date": "05/09/2022",
+        "cip13": "3400949766666"
+      }
+    ]
+  }
+]

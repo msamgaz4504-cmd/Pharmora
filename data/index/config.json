@@ -1,0 +1,12 @@
+{
+  "model_name": "intfloat/multilingual-e5-small",
+  "dimension": 384,
+  "vector_count": 868,
+  "metric": "inner_product",
+  "normalized_embeddings": true,
+  "similarity": "cosine",
+  "query_prefix": "query: ",
+  "passage_prefix": "passage: ",
+  "maximum_tokens_seen": 480,
+  "passages_over_512": 0
+}

@@ -1,0 +1,201 @@
+{
+  "document_id": "67410088_rcp",
+  "cis": "67410088",
+  "medicine_name": "AMOXICILLINE SANDOZ 500 mg, gélule",
+  "document_type": "RCP",
+  "source": "Base de données publique des médicaments",
+  "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-67410088-0",
+  "extraction_method": "mobile_document",
+  "retrieved_at": "2026-09-23T20:45:44.403305+00:00",
+  "content_hash": "fd31ceda08878f1a7d3efb1e49612a733d0bb5a2eb765c6553630555747c1976",
+  "character_count": 33057,
+  "section_count": 30,
+  "non_empty_section_count": 27,
+  "empty_sections": [
+    "4",
+    "5",
+    "6"
+  ],
+  "sections": [
+    {
+      "section_index": 0,
+      "section_number": "1",
+      "title": "DENOMINATION DU MEDICAMENT",
+      "text": "AMOXICILLINE SANDOZ 500 mg, gélule"
+    },
+    {
+      "section_index": 1,
+      "section_number": "2",
+      "title": "COMPOSITION QUALITATIVE ET QUANTITATIVE",
+      "text": "Amoxicilline......................................................................................................................... 500 mg\nSous forme d'amoxicilline trihydratée\nPour une gélule.\nPour la liste complète des excipients, voir rubrique 6.1."
+    },
+    {
+      "section_index": 2,
+      "section_number": "3",
+      "title": "FORME PHARMACEUTIQUE",
+      "text": "Gélules."
+    },
+    {
+      "section_index": 3,
+      "section_number": "4",
+      "title": "DONNEES CLINIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 4,
+      "section_number": "4.1",
+      "title": "Indications thérapeutiques",
+      "text": "AMOXICILLINE SANDOZ 500 mg, gélule est indiqué dans le traitement des infections suivantes chez l'adulte et l'enfant (voir rubriques 4.2, 4.4 et 5.1) :\n·\nsinusite bactérienne aiguë,\n·\notite moyenne aiguë,\n·\nangine/pharyngite documentée à streptocoque,\n·\nexacerbations aiguës de bronchite chronique,\n·\npneumonie communautaire,\n·\ncystite aigüe,\n·\nbactériurie asymptomatique gravidique,\n·\npyélonéphrite aigüe,\n·\nfièvre typhoïde et paratyphoïde,\n·\nabcès dentaire avec cellulite,\n·\ninfections articulaires sur prothèses,\n·\néradication de Helicobacter pylori,\n·\nmaladie de Lyme.\nAMOXICILLINE SANDOZ 500 mg, gélule est aussi indiqué dans la prophylaxie de l'endocardite.\nIl convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens."
+    },
+    {
+      "section_index": 5,
+      "section_number": "4.2",
+      "title": "Posologie et mode d'administration",
+      "text": "Posologie\nLa dose d'AMOXICILLINE SANDOZ 500 mg, gélule choisie pour traiter une infection particulière doit prendre en compte :\n·\nles pathogènes suspectés et leur sensibilité probable aux agents antibactériens (voir rubrique 4.4),\n·\nla sévérité et le foyer de l'infection,\n·\nl'âge, le poids et la fonction rénale du patient ; voir ci-dessous.\nLa durée du traitement dépendra du type d'infection et de la réponse du patient au traitement, et doit généralement être la plus courte possible. Certaines infections imposent un traitement prolongé (voir rubrique 4.4 sur le traitement prolongé).\nAdultes et enfants ≥ 40 kg\nInd\ni\nc\na\nt\ni\non*\nD\nose*\nS\ni\nnu\ns\ni\nt\ne ba\nc\nt\né\nr\ni\nenne\na\ni\ng\nüe\n250 mg à 500 mg toutes les 8 heures ou 750 mg à 1g toutes les 12 heures\nPour les infections sévères 750 mg à 1g toutes les 8 heures\nLes cystites aigües peuvent être traitées avec 3g deux fois par jour pendant un jour\nB\nac\nt\né\nri\nu\nr\ni\ne\na\nsy\nm\np\nt\no\nm\na\nti\nq\nu\ne\ng\nr\na\nv\ni\nd\ni\nque\nP\ny\né\nl\nonéph\nr\ni\nt\ne\na\ni\ng\nüe\nA\nbcès\nd\ne\nn\nt\na\ni\nr\ne a\nv\nec\nc\ne\nl\nl\nu\nl\ni\nt\ne\nC\ny\ns\ntit\ne a\ni\ng\nüe\nO\nti\nt\ne\nm\no\ny\nenne a\ni\ng\nüe\n500 mg toutes les 8 heures, 750 mg à 1 g toutes les 12 heures\nPour les infections sévères 750 mg à 1 g toutes les 8 heures pendant 10 jours\nA\nn\ng\ni\nne\n/\nph\na\nr\ny\nn\ng\nit\ne do\nc\nu\nm\nen\nt\née à\ns\ntr\ne\np\nt\no\ncoque\nExac\ne\nr\nb\na\nti\no\nn\ns\na\ni\ng\nuës de\nbr\nonch\ni\nt\ne ch\nr\no\nn\ni\nq\nu\ne\nPneu\nm\non\ni\ne co\nm\nm\nunau\nt\na\nir\ne\n500 mg à 1 g toutes les 8 heures\nF\ni\nè\nv\nr\ne\nt\ny\nph\no\nï\nde\ne\nt\np\na\nr\na\nt\ny\npho\nï\nde\n500 mg à 2 g toutes les 8 heures\nI\nn\nf\nec\nti\nons a\nr\nt\ni\ncu\nl\na\ni\nr\nes sur\np\nr\no\nt\nh\nès\ne\ns\n500 mg à 1 g toutes les 8 heures\nP\nr\noph\ny\nl\na\nx\ni\ne\nd\ne\nl\n'\nend\no\nc\na\nr\nd\nit\ne\n2 g par voie orale, une dose unique 30 à 60 minutes avant l'intervention\nÉ\nr\nad\ni\nc\na\nti\non de\nH\ne\nl\ni\ncoba\nc\nt\ne\nr py\nl\nori\n750 mg à 1 g deux fois par jour en association avec un inhibiteur de la pompe à protons (comme l'oméprazole ou le lansoprazole) et un autre antibiotique (comme la clarithromycine ou le métronidazole) pendant 7 jours\nMa\nl\nad\ni\ne de L\ny\nm\ne\n(\nv\no\ni\nr\nr\nu\nbr\ni\nque 4\n.\n4)\nPhase précoce : 500 mg à 1 g toutes les 8 heures jusqu'à un maximum de 4 g/jour en doses fractionnées pendant 14 jours (10 à 21 jours)\nPhase tardive (atteinte systémique) : 500 mg à 2 g toutes les 8 heures jusqu'à un maximum de 6 g/jour en doses fractionnées pendant 10 à 30 jours\n*Il convient de tenir compte des recommandations thérapeutiques officielles pour chaque indication.\nEnfants < 40 kg\nLes enfants peuvent être traités par amoxicilline sous forme de gélules, comprimés dispersibles, suspensions ou sachets.\nAmoxicilline Suspension Pédiatrique est recommandée chez l'enfant de moins de 6 mois.\nPour les enfants pesant 40 kg ou plus, la posologie adulte doit être prescrite.\nPosologies recommandées\n:\nInd\ni\nc\na\nt\ni\no\nn\n+\nD\nos\ne\n+\nS\ni\nnu\ns\ni\nt\ne ba\nc\nt\né\nr\ni\nenne a\ni\ng\nüe\n20 à 90\nm\ng\n/\nk\ng\n/\nj\no\nu\nr en p\nl\nu\ns\ni\neu\nr\ns p\nr\ni\nse\ns\n*\nO\nti\nt\ne\nm\no\ny\nenne a\ni\ng\nüe\nPneu\nm\non\ni\ne co\nm\nm\nunau\nt\na\nir\ne\nC\ny\ns\ntit\ne a\ni\ng\nüe\nP\ny\né\nl\nonéph\nr\ni\nt\ne\na\ni\ng\nüe\nA\nbcès d\ne\nn\nt\na\ni\nr\ne a\nv\nec\nc\ne\nl\nl\nu\nl\ni\nt\ne\nA\nn\ng\ni\nne\n/\nph\na\nr\ny\nn\ng\nit\ne do\nc\nu\nm\nen\nt\née à\ns\ntr\ne\np\nt\no\ncoque\n40 à 90\nm\ng\n/\nk\ng\n/\nj\no\nu\nr en p\nl\nu\ns\ni\neu\nr\ns p\nr\ni\nses *\nF\ni\nè\nv\nr\ne\nt\ny\nph\no\nï\nde\ne\nt\np\na\nr\na\nt\ny\npho\nï\nde\n100\nm\ng\n/\nk\ng\n/j\nour en 3\np\nr\ni\nses\nP\nr\noph\ny\nl\na\nx\ni\ne\nd\ne\nl\n'\nend\no\nc\na\nr\nd\nit\ne\n50\nm\ng\n/\nkg par\nv\no\ni\ne o\nr\na\nl\ne, u\nn\ne dose un\ni\nq\nue 30 à 60\nm\ni\nnu\nt\nes a\nv\nant\nl\n'\ni\nn\nt\ne\nr\nv\ne\nn\nti\no\nn\nMa\nl\nad\ni\ne de L\ny\nm\ne\n(\nv\no\ni\nr\nr\nu\nbr\ni\nque 4\n.\n4)\nPhase\np\nr\né\nc\noce : 25 à 50\nm\ng\n/\nkg\n/\nj\no\nu\nr en\nt\nr\no\ni\ns p\nr\ni\ns\ne\ns\npenda\nn\nt 10 à 21\nj\nou\nr\ns\nPhase\nt\na\nr\nd\ni\nv\ne\n(\na\nt\nt\ne\ni\nn\nt\ne s\ny\ns\nt\né\nm\ni\nque) : 1\n0\n0\nm\ng\n/\nk\ng\n/\nj\no\nu\nr en\ntr\no\ni\ns\np\nr\ni\nses\np\nenda\nn\nt 10 à 30\nj\nou\nr\ns\n+\nI\nl con\nv\ni\nent de\nt\nen\ni\nr co\nm\np\nt\ne des\nr\ne\nc\no\nm\nm\nanda\nti\no\nn\ns\nt\nhé\nr\nape\nu\nt\ni\nques o\nf\nfi\nc\ni\ne\nl\nl\nes p\no\nur chaq\nu\ne\ni\nn\nd\ni\nc\na\nt\ni\non.\n*Le sc\nh\né\nm\na poso\nl\no\ng\ni\nq\nu\ne en deux\np\nri\ns\nes\np\nar\nj\no\nu\nr ne d\no\ni\nt ê\nt\nr\ne en\nv\ni\ns\na\ng\né que po\nu\nr\nl\nes poso\nl\no\ng\ni\nes\nl\nes\np\nl\nus é\nl\ne\nv\nées.\nPatients âgés\nAucune adaptation posologique n'est considérée nécessaire.\nPatients insuffisants rénaux\nD\nF\nG\n(\nm\nl\n/\nm\ni\nn)\nA\ndu\nlt\nes et e\nn\nf\na\nn\nt\ns ≥ 40\nkg\nE\nn\nf\nan\nt\ns\n<\n40 kg#\nsupé\nr\ni\neur à 30\naucune adaptation nécessaire\naucune adaptation nécessaire\n10 à 30\nmaximum 500 mg deux fois par jour\n15 mg/kg deux fois par jour\n(maximum 500 mg deux fois par jour)\ni\nn\nf\né\nr\ni\ne\nu\nr à 10\nmaximum 500 mg/jour.\n15 mg/kg en une seule prise par jour\n(maximum 500 mg)\n# Dans la majorité des cas, le traitement parentéral est préférable\nPatients hémodialysés\nL'amoxicilline peut être éliminée de la circulation sanguine par hémodialyse.\nH\né\nm\nod\ni\na\nl\ny\nse\nA\ndu\nlt\nes et e\nn\nf\na\nn\nt\ns\n≥ 40 kg\n15\nm\ng\n/\nk\ng\n/\nj\no\nur\ne\nn une se\nu\nl\ne p\nri\ns\ne p\na\nr\nj\nou\nr\n.\nA\nv\nant\nl'\nh\né\nm\nod\ni\na\nl\ny\nse, u\nn\ne\nd\nose s\nu\npp\nl\né\nm\nen\nt\na\ni\nr\ne de 15\nm\ng\n/\nkg do\ni\nt ê\nt\nr\ne ad\nm\ni\nn\ni\ns\nt\nr\née.\nA\nfi\nn de\nr\né\nt\nab\nli\nr\nl\ne\ns co\nn\nce\nn\nt\nr\na\nt\ni\nons\nd\nu\nm\néd\ni\nca\nm\nent d\na\nns\nl\na\nc\ni\nr\ncu\nl\na\nt\ni\non, u\nn\ne a\nu\nt\nr\ne do\ns\ne de 15\nm\ng\n/\nkg do\ni\nt ê\nt\nr\ne a\nd\nm\ni\nn\ni\ns\nt\nr\née a\np\nr\nès\nl'\nhé\nm\nod\ni\na\nl\ny\nse.\nPatients sous dialyse péritonéale\n500 mg/jour d'amoxicilline au maximum.\nPatients insuffisants hépatiques\nUtiliser avec précaution et surveiller la fonction hépatique régulièrement (voir rubriques 4.4 et 4.8).\nMode d'administration\n:\nAMOXICILLINE SANDOZ 500 mg gélule, est destiné à une administration orale.\nLa prise alimentaire n'a pas d'incidence sur l'absorption d'AMOXICILLINE SANDOZ 500 mg gélule.\nLe traitement peut être débuté par voie parentérale, selon les recommandations posologiques de la formulation intraveineuse, et être poursuivi avec une formulation pour administration orale\nAvaler avec un verre d'eau sans ouvrir la gélule."
+    },
+    {
+      "section_index": 6,
+      "section_number": "4.3",
+      "title": "Contre-indications",
+      "text": "·\nhypersensibilité à la substance active, aux pénicillines ou à l'un des excipients mentionnés à la rubrique 6.1,\n·\nantécédents de réaction d'hypersensibilité immédiate sévère (par ex. anaphylaxie) à une autre bêta-lactamine (par ex. céphalosporine, carbapénème ou monobactame)."
+    },
+    {
+      "section_index": 7,
+      "section_number": "4.4",
+      "title": "Mises en garde spéciales et précautions d'emploi",
+      "text": "Réactions d'hypersensibilité\nAvant de débuter un traitement par amoxicilline, un interrogatoire approfondi est nécessaire afin de rechercher les antécédents de réactions d'hypersensibilité aux pénicillines, aux céphalosporines ou à d'autres bêta-lactamines (voir rubriques 4.3 et 4.8).\nDes réactions d'hypersensibilité graves et parfois fatales (dont des réactions anaphylactoïdes et des réactions indésirables cutanées sévères) ont été observées chez des patients traités par pénicillines. Les réactions d'hypersensibilité peuvent également évoluer vers un syndrome de Kounis, une réaction allergique grave pouvant entraîner un infarctus du myocarde (voir rubrique 4.8). La survenue de telles réactions est plus probable chez les patients ayant des antécédents d'hypersensibilité à la pénicilline et chez les personnes atteintes d'atopie. La survenue de toute manifestation allergique impose l'arrêt du traitement par amoxicilline et la mise en œuvre d'un autre traitement adapté.\nLe syndrome d'entérocolite induite par les médicaments (SEIM) a été rapporté principalement chez des enfants recevant de l'amoxicilline (voir rubrique 4.8). Le SEIM est une réaction allergique dont le principal symptôme est un vomissement prolongé (1 à 4 heures après la prise du médicament) en l'absence de symptômes allergiques cutanés ou respiratoires. Les autres symptômes peuvent inclure des douleurs abdominales, des diarrhées, une hypotension ou une leucocytose avec neutrophilie. Des cas sévères ont été rapportés incluant une évolution vers un choc.\nMicro-organismes non sensibles\nL'amoxicilline n'est pas adaptée au traitement de certains types d'infections sauf si le pathogène est déjà documenté et connu comme étant sensible à l'amoxicilline, ou s'il y a une très grande probabilité que le pathogène y soit sensible (voir rubrique 5.1). Ceci concerne en particulier le traitement de patients ayant des infections urinaires et des infections sévères de l'oreille, du nez et de la gorge.\nConvulsions\nDes convulsions peuvent apparaitre chez les patients insuffisant rénaux ou recevant des doses élevées ou chez les patients présentant des facteurs de prédisposition (par ex. antécédents de convulsions, épilepsie traitée, troubles méningés (voir rubrique 4.8)).\nInsuffisance rénale\nChez les patients insuffisants rénaux, la dose doit être adaptée selon le degré d'insuffisance rénale (voir rubrique 4.2).\nRéactions cutanées\nL'apparition en début de traitement d'un érythème généralisé fébrile, associé à des pustules, peut être le symptôme d'une pustulose exanthématique aiguë généralisée (PEAG) (voir rubrique 4.8). Cette réaction impose l'arrêt de l'amoxicilline et contre-indique toute administration ultérieure de ce médicament.\nL'amoxicilline doit être évitée en cas de suspicion de mononucléose infectieuse car la survenue d'une éruption morbilliforme a été associée à cette pathologie après l'utilisation d'amoxicilline.\nRéaction de Jarisch-Herxheimer\nDes réactions de Jarisch-Herxheimer ont été observées après traitement de la maladie de Lyme par amoxicilline (voir rubrique 4.8). Il s'agit d'une conséquence directe de l'activité bactéricide de l'amoxicilline sur la bactérie responsable de la maladie de Lyme, le spirochète Borrelia burgdorferi. Les patients devront être rassurés sur le fait qu'il s'agit d'une conséquence fréquente et en général spontanément résolutive du traitement antibiotique de la maladie de Lyme.\nProlifération de micro-organismes non-sensibles\nUne utilisation prolongée peut entraîner occasionnellement la prolifération d'organismes non- sensibles.\nDes colites associées aux antibiotiques, ont été rapportées avec presque tous les agents antibactériens : leur sévérité est variable, de légère à menaçant le pronostic vital (voir rubrique 4.8). Par conséquent, il est important d'envisager ce diagnostic chez les patients présentant des diarrhées pendant ou après l'administration de tout antibiotique. En cas de survenue de colite associée à un antibiotique, la prise d'amoxicilline doit immédiatement être arrêtée, un médecin devra être consulté et un traitement approprié devra être instauré. Les médicaments inhibant le péristaltisme sont contre-indiqués dans cette situation.\nTraitement prolongé\nEn cas de traitement prolongé, il est recommandé de surveiller régulièrement les fonctions organiques, en particulier les fonctions rénale, hépatique et hématopoïétique. Une élévation des enzymes hépatiques et des modifications dans la numération sanguine ont été rapportées (voir rubrique 4.8).\nAnticoagulants\nDe rares cas de prolongation du temps de Quick ont été signalés chez des patients recevant de l'amoxicilline. Une surveillance appropriée doit être mise en place lorsque des anticoagulants sont prescrits simultanément. Une adaptation posologique des anticoagulants oraux peut être nécessaire pour maintenir le niveau souhaité d'anticoagulation (voir rubriques 4.5 et 4.8).\nCristallurie\nDe très rares cas de cristallurie (incluant des lésions rénales aiguës) ont été observés chez des patients ayant un faible débit urinaire, principalement lors d'une administration parentérale. En cas d'administration de doses élevées d'amoxicilline, il est conseillé de maintenir un apport hydrique et une émission d'urine adéquats pour réduire le risque de cristallurie de l'amoxicilline. Chez des patients porteurs de sondes vésicales, il convient de contrôler régulièrement la perméabilité de la sonde (voir rubriques 4.8 et 4.9).\nInterférence avec les tests diagnostics\nDes taux élevés d'amoxicilline dans le sérum et les urines sont susceptibles d'affecter certains tests de laboratoire. En raison des concentrations élevées d'amoxicilline dans les urines, des résultats faussement positifs sont fréquents avec les méthodes chimiques. Lors de la recherche de la présence de glucose dans les urines pendant un traitement par l'amoxicilline, la méthode enzymatique avec la glucose oxydase doit être utilisée.\nLa présence d'amoxicilline peut fausser les résultats des dosages d'oestriol chez la femme enceinte."
+    },
+    {
+      "section_index": 8,
+      "section_number": "4.5",
+      "title": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "text": "Probénécide\nL'utilisation concomitante de probénécide n'est pas recommandée. Le probénécide diminue la sécrétion tubulaire rénale de l'amoxicilline. L'utilisation concomitante de probénécide peut conduire à une augmentation prolongée de la concentration sanguine d'amoxicilline.\nAllopurinol\nL'administration concomitante d'allopurinol lors d'un traitement avec de l'amoxicilline peut augmenter la probabilité de réactions cutanées allergiques.\nTétracyclines\nLes tétracyclines et d'autres médicaments bactériostatiques peuvent interférer avec les effets bactéricides de l'amoxicilline.\nAnticoagulants oraux\nLes anticoagulants oraux sont souvent administrés de façon concomitante avec des antibiotiques de la famille des pénicillines et aucune interaction n'a été signalée. Toutefois, des cas d'augmentation de l'INR ont été rapportés dans la littérature chez des patients maintenus sous acénocoumarol ou warfarine pendant l'administration d'amoxicilline. Si une co-administration est nécessaire, le temps de Quick ou l'INR lors de l'ajout ou du retrait d'amoxicilline doit être étroitement surveillé. En outre, une adaptation posologique des anticoagulants oraux peut être nécessaire (voir rubriques 4.4 et 4.8).\nMéthotrexate\nLes pénicillines peuvent réduire l'excrétion de méthotrexate et augmenter ainsi sa toxicité."
+    },
+    {
+      "section_index": 9,
+      "section_number": "4.6",
+      "title": "Fertilité, grossesse et allaitement",
+      "text": "Grossesse\nLes études effectuées chez l'animal n'ont pas mis en évidence d'effets délétères directs ou indirects sur la reproduction. Les données limitées sur l'utilisation de l'amoxicilline chez la femme enceinte n'indiquent pas d'augmentation du risque de malformations congénitales. L'amoxicilline peut être utilisée chez la femme enceinte si les bénéfices potentiels l'emportent sur les risques potentiels associés au traitement.\nAllaitement\nL'amoxicilline est excrétée dans le lait maternel en petites quantités avec un risque possible de sensibilisation. Par conséquent, une diarrhée et une infection fongique des muqueuses sont possibles chez le nourrisson allaité et pourraient nécessiter l'arrêt de l'allaitement. L'amoxicilline ne peut être utilisée pendant l'allaitement qu'après évaluation du rapport bénéfice/risque par le médecin traitant.\nFertilité\nIl n'y a aucune donnée relative aux effets de l'amoxicilline sur la fertilité humaine. Les études sur la reproduction menées chez l'animal n'ont montré aucun effet sur la fertilité."
+    },
+    {
+      "section_index": 10,
+      "section_number": "4.7",
+      "title": "Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "text": "Aucune étude n'a été réalisée concernant l'aptitude à conduire des véhicules et à utiliser des machines. Toutefois, la survenue d'effets indésirables (par ex. réactions allergiques, vertiges, convulsions) pouvant avoir une incidence sur l'aptitude à conduire des véhicules ou à utiliser des machines est possible (voir rubrique 4.8)."
+    },
+    {
+      "section_index": 11,
+      "section_number": "4.8",
+      "title": "Effets indésirables",
+      "text": "Les effets indésirables les plus fréquents sont les diarrhées, les nausées et les éruptions cutanées.\nLes effets indésirables identifiés dans les études cliniques et depuis la commercialisation de l'amoxicilline sont mentionnés ci-dessous selon la classification MedDRA par système-organe.\n·\ntrès fréquent (≥1/10),\n·\nfréquent (≥1/100 à <1/10),\n·\npeu fréquent (≥1/1000 à <1/100),\n·\nrare (≥1/10000 à <1/1000),\n·\ntrès rare (<1/10000),\n·\nfréquence indéterminée (ne peut être estimée sur la base des données disponibles).\nI\nn\nf\ne\nc\nt\ni\nons\ne\nt\ni\nn\nf\ne\ns\nt\na\nti\no\nn\ns\nT\nr\nès\nr\na\nr\ne\nC\nand\ni\nd\no\nse\nc\nu\nt\na\nnéo\n-\nm\nuqueuse\nA\nff\ne\nc\nt\ni\nons h\né\nm\na\nt\no\nl\no\ng\ni\nqu\ne\ns et du sy\ns\nt\nè\nm\ne\nl\ny\nm\np\nh\na\nt\ni\nq\nue\nT\nr\nès\nr\na\nr\ne\nLeucop\né\nn\ni\ne\nr\né\nv\ne\nr\ns\ni\nb\nl\ne\n(\ny co\nm\np\nri\ns a\ng\nr\nanu\nl\noc\ny\nt\nose ou ne\nu\ntr\no\np\nén\ni\ne sé\nv\nè\nr\ne\n)\n, an\né\nm\ni\ne hé\nm\no\nl\ny\nti\nque et\nt\nh\nr\no\nm\nboc\ny\nt\nopé\nn\ni\ne\nr\né\nv\ne\nr\ns\ni\nb\nl\nes.\nP\nr\no\nl\no\nn\ng\na\nti\non du\nt\ne\nm\nps de\ns\na\ni\ng\nne\nm\nent et\nd\nu\nt\ne\nm\nps de\nQ\nu\ni\nck\n(\nv\no\ni\nr\nr\nu\nb\nri\nq\nue 4.\n4\n)\n.\nA\nff\ne\nc\nt\ni\nons du\ns\nys\nt\nè\nm\ne\ni\nm\nm\nun\ni\nt\na\ni\nre\nT\nr\nès\nr\na\nr\ne\nD\nes réac\nti\nons a\nll\ne\nr\ng\ni\nques s\né\nv\nères,\ni\nnc\nl\nuant\nœ\ndè\nm\ne de\nQ\nu\ni\nnc\nk\ne, anaph\ny\nl\nax\ni\ne,\nm\na\nl\nad\ni\ne sér\ni\nq\nu\ne et\nv\nascu\nl\nar\ni\nt\ne d'h\ny\npersens\ni\nb\ni\nl\nit\né (\nv\no\ni\nr ru\nb\nr\ni\nque 4.4).\nF\nr\néqu\ne\nnce\ni\nnd\né\nt\ne\nr\nm\ni\nnée\nR\néac\nt\ni\non de\nJ\na\nr\ni\nsch\n-\nH\ne\nr\nxhe\ni\nm\ner\n(\nvo\ni\nr rubr\ni\nque 4.4)\nA\nff\ne\nc\nt\ni\nons du\ns\nys\nt\nè\nm\ne ne\nr\nveux\nT\nr\nès\nr\na\nr\ne\nH\ny\npe\nr\nk\ni\nnés\ni\ne,\nv\ne\nr\nti\ng\nes et c\no\nn\nv\nu\nl\ns\ni\no\nn\ns\n(\nv\no\ni\nr\nr\nu\nb\nri\nq\nue\n4.4\n)\n.\nFréquence indéterminée\nMéningite aseptique\nA\nff\ne\nc\nt\ni\nons g\na\ns\nt\nr\no\n-\ni\nn\nt\ne\ns\nt\ni\nn\na\nl\nes\nD\nonnées\nd\n'\né\nt\nud\ne\ns\nc\nli\nn\ni\nq\nu\nes\n*Fréquent\nD\ni\na\nr\nr\nhé\ne\ns\ne\nt na\nu\nsé\ne\ns\n*Peu fréquent\nV\no\nm\ni\nsse\nm\nen\nt\ns\nD\nonnées\np\nos\nt\n-\nco\nmm\ne\nr\nc\ni\na\nl\ni\ns\na\nti\no\nn\nT\nr\nès\nr\na\nr\ne\nC\no\nl\ni\nt\ne\na\nsso\nc\ni\né\ne aux an\nt\ni\nb\ni\no\nt\ni\nques\n(\ni\nn\nc\nl\nua\nn\nt c\no\nl\ni\nte\npseudo\n-\nm\ne\nm\nb\nr\naneu\ns\ne\ne\nt c\no\nl\nit\ne hé\nm\no\nrr\na\ng\ni\nque,\nv\no\ni\nr\nr\nu\nb\nri\nq\nue 4.\n4\n)\n.\nLangue noire chevelue\nFréquence indéterminée\nSyndrome d'entérocolite induite par les médicaments\nAffections hépatobiliaires\nTrès rare\nHépatite et ictère cholestatique. Augmentation modérée des ASAT et/ou des ALAT.\nAffections de la peau et du tissu sous-cutané\nDonnées d'études cliniques\n*Fréquent\nEruption cutanée\n*Peu Fréquent\nUrticaire et prurit\nDonnées post-commercialisation\nTrès rare\nRéactions cutanées telles qu'érythème polymorphe, syndrome de Stevens-Johnson, nécrolyse épidermique toxique, dermatite bulleuse et exfoliative et pustulose exanthématique aiguë généralisée (PEAG) (voir rubrique 4.4), et syndrome d'hypersensibilité médicamenteuse (DRESS).\nFréquence indéterminée\nDermatose à IgA linéaire\nAffections du rein et des voies urinaires\nTrès rare\nNéphrite interstitielle\nFréquence indéterminée\nCristallurie (incluant des lésions rénales aiguës) (voir rubriques 4.4 et 4.9 Surdosage)\nAffections cardiaques\nFréquence indéterminée\nSyndrome de Kounis\n* La\nf\nr\néq\nu\nence des ces EI a é\nt\né\nd\né\nt\ne\nr\nm\ni\nnée\nd\n'\na\np\nr\nès\nl\ne\ns donné\ne\ns des é\nt\nudes c\nl\ni\nn\ni\nqu\ne\ns po\nr\nt\na\nn\nt s\nu\nr un\nt\no\nt\nal d\n'\nen\nv\nir\no\nn 6 000 p\na\nti\ne\nn\nt\ns a\nd\nu\nl\nt\nes\ne\nt pé\nd\ni\na\nt\nr\ni\nq\nu\nes s\no\nus\na\nm\nox\ni\nc\nil\nl\ni\nn\ne\n.\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :\nhttps://signalement.social-sante.gouv.fr\n."
+    },
+    {
+      "section_index": 12,
+      "section_number": "4.9",
+      "title": "Surdosage",
+      "text": "Signes et symptômes de surdosage\nDes symptômes gastro-intestinaux (tels que nausées, vomissements et diarrhée) et des troubles de l'équilibre hydro-électrolytique sont possibles. Des cristalluries liées à l'amoxicilline, conduisant dans certains cas à une insuffisance rénale, ont été observées (rubrique 4.4). Des convulsions peuvent survenir chez les patients ayant une insuffisance rénale ou ceux recevant des doses élevées (voir rubriques 4.4 et 4.8).\nTraitement de l'intoxication\nLe traitement des signes gastro-intestinaux est symptomatique et fait intervenir une surveillance particulière de l'équilibre hydro-électrolytique.\nL'amoxicilline peut être éliminée de la circulation sanguine par hémodialyse."
+    },
+    {
+      "section_index": 13,
+      "section_number": "5",
+      "title": "PROPRIETES PHARMACOLOGIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 14,
+      "section_number": "5.1",
+      "title": "Propriétés pharmacodynamiques",
+      "text": "Classe pharmacothérapeutique : PENICILLINES A LARGE SPECTRE, code ATC : J01CA04.\nMécanisme d'action\nL'amoxicilline est une pénicilline semi-synthétique (antibiotique de la famille des bêta-lactamines), qui inhibe une ou plusieurs enzymes (souvent désignées par protéines de liaison aux pénicillines ou PLP) de la voie de biosynthèse des peptidoglycanes bactériens, composants structurels de la paroi cellulaire bactérienne. L'inhibition de la synthèse des peptidoglycanes conduit à une fragilisation de la paroi cellulaire, souvent suivie par la lyse et la mort cellulaires.\nL'amoxicilline étant sujette à la dégradation par les bêta-lactamases produites par les bactéries résistantes, son spectre d'activité lorsqu'elle est administrée seule n'inclut pas les organismes produisant ces enzymes.\nRelation pharmacocinétique/pharmacodynamique\nLe temps au-dessus de la concentration minimale inhibitrice (T > CMI) est considéré comme étant le paramètre majeur de l'efficacité de l'amoxicilline.\nMécanismes de résistance\nLes deux principaux mécanismes de résistance à l'amoxicilline sont :\n·\nl'inactivation par les bêta-lactamases bactériennes,\n·\nla modification des PLP, qui réduit l'affinité de l'agent antibactérien pour la cible.\nL'imperméabilité des bactéries ou les mécanismes de pompe à efflux peuvent entraîner ou favoriser une résistance bactérienne, en particulier chez les bactéries à Gram négatif.\nConcentrations critiques\nConcentrations critiques pour l'amoxicilline établies par l'EUCAST (European Committee on Antimicrobial Susceptibility Testing) version 5.0.\nO\nrga\nn\ni\ns\nm\ne\nV\na\nl\neur cr\ni\nti\nq\nu\ne de sen\ns\ni\nb\ni\nl\ni\nt\né\nC\nM\nI\n(\nm\ng\n/\nL\n)\nSens\ni\nb\nl\ne ≤\nR\nés\ni\ns\nt\nant >\nEn\nt\né\nr\noba\nc\nt\né\nr\ni\nes\n8\n1\n8\nS\nt\naph\ny\nl\no\nc\nocc\nu\ns\ns\np\np.\nR\ne\nm\na\nr\nque\n2\nR\ne\nm\na\nr\nque\n2\nEn\nt\ner\no\nco\nc\ncus\ns\npp\n.\n3\n4\n8\nS\ntr\ne\np\nt\no\nc\noqu\ne\ns des\ng\nr\noupes\nA\n,\nB\n, C et G\nR\ne\nm\na\nr\nque\n4\nR\ne\nm\na\nr\nque\n4\nS\nt\nre\np\nt\no\nc\nocc\nu\ns pn\ne\nu\nm\non\ni\na\ne\nR\ne\nm\na\nr\nque\n5\nR\ne\nm\na\nr\nque\n5\nS\ntr\ne\np\nt\no\nc\noqu\ne\ns du\ng\nr\nou\np\ne\nVi\nr\ni\nda\nn\ns\n0,5\n2\nH\nae\nm\noph\ni\nl\nus\ni\nn\nf\nl\nu\ne\nnzae\n2\n6\n2\n6\nM\nor\na\nxe\nl\nl\na ca\nt\na\nrrh\na\nl\ni\ns\nR\ne\nm\na\nr\nque\n7\nR\ne\nm\na\nr\nque\n7\nN\ne\ni\ns\ns\ne\nr\ni\na\nm\ne\nn\ni\nng\ni\nt\ni\nd\nis\n0,125\n1\nA\nnaé\nr\no\nb\ni\ne\ns à\nG\nr\nam pos\ni\nt\ni\nf sauf\nC\nl\nos\nt\nr\ni\nd\ni\num\nd\ni\nf\nf\ni\nc\ni\nl\ne\n8\n4\n8\nA\nnaé\nr\no\nb\ni\ne\ns à\nG\nr\nam né\ng\na\nti\nf\n8\n0,5\n2\nH\ne\nli\nc\noba\nc\nt\ner p\ny\nl\no\nri\n0,12\n5\n9\n0,12\n5\n9\nPas\nt\ne\nu\nr\ne\nll\na\nm\nu\nl\nt\noc\ni\nda\n1\n1\nC\noncen\nt\nr\na\nt\ni\nons\nc\nr\ni\nt\ni\nques n\no\nn\nl\ni\nées à\nl'\ne\nspè\nce\n10\n2\n8\n1\nL\nes souches sau\nv\na\ng\nes d'\nE\nn\nt\nérobac\nt\nér\ni\ne\ns sont c\nl\nassées\nc\no\nmm\ne sens\ni\nb\nl\nes aux a\nm\ni\nnopén\ni\nc\ni\nl\nli\nnes.\nC\ne\nr\nt\na\ni\nns pa\ny\ns préfèrent c\nl\na\nsser\nl\nes s\no\nuches sau\nv\na\ng\nes\ni\nso\nl\nées d\n'\nE\n. co\nl\ni\net de\nP\n.\nm\ni\nrab\ni\nli\ns\nda\nn\ns\nl\na ca\nt\né\ng\nor\ni\ne\ni\nn\nt\ner\nm\néd\ni\na\ni\nre.\nD\nans ce c\na\ns\n-\nl\nà,\ni\nl con\nv\ni\nent d'u\nt\nili\ns\ner\nl\na\nv\na\nl\neur c\nr\niti\nque\nC\nMI S ≤ 0,5\nm\ng\n/\nL\n.\n2\nLa p\nl\nupart des s\nt\naphy\nl\nocoques sont p\nr\noduc\nt\neu\nr\ns de pén\ni\nc\ni\nl\nl\ni\nnase, et sont\nr\nés\ni\ns\nt\nan\nt\ns à\nl\n'a\nm\nox\ni\nc\ni\nl\nl\ni\nne.\nLes\ni\nso\nl\na\nt\ns\nr\nés\ni\ns\nt\nan\nt\ns à\nl\na\nm\nét\ni\nc\ni\nl\nl\ni\nne son\nt\n, à que\nl\nques excep\nt\ni\nons près,\nr\nés\ni\ns\nt\nan\nt\ns à\nt\nous\nl\nes an\nt\ni\nb\ni\no\nt\ni\nques de\nl\na fa\nm\nill\ne des bê\nt\na\n-\nl\nac\nt\na\nm\ni\nnes.\n3\nLa sens\ni\nb\ni\nl\nit\né à\nl\n'\na\nm\nox\ni\nc\ni\nll\ni\nne peut ê\nt\nr\ne dédu\ni\nt\ne à pa\nr\nti\nr de ce\nl\nl\ne de\nl\n'\na\nm\np\ni\nc\ni\nl\nl\ni\nne\n4\nLa sens\ni\nb\ni\nl\nit\né des s\nt\nr\nep\nt\nocoques des g\nr\noupes\nA\n,\nB\n, C et G aux pén\ni\nc\ni\nl\nli\nnes est dédu\ni\nt\ne de\nl\na sens\ni\nb\ni\nl\ni\nt\né à\nl\na benzy\nl\npén\ni\nc\ni\nll\ni\nne.\n5\nLes va\nl\neurs c\nr\ni\nti\nques conce\nr\nnent un\ni\nque\nm\nent des\ni\nso\nl\na\nt\ns no\nn\n-\nm\nén\ni\nn\ng\nés. Pour\nl\nes\ni\nso\nl\na\nt\ns c\nl\nassés\nco\nm\nm\ne\ni\nn\nt\ne\nr\nm\néd\ni\na\ni\nre à\nl'\na\nm\np\ni\nc\nil\nl\ni\nne, év\nit\ner un\nt\nra\ni\nt\ne\nm\nent o\nr\nal par\nl\n'\na\nm\nox\ni\nc\ni\nl\nl\ni\nne. La sens\ni\nb\ni\nl\ni\nt\né est dédu\ni\nt\ne de\nl\na va\nl\neur de\nl\na\nC\nMI de\nl'\na\nm\np\ni\nc\ni\nl\nl\ni\nne.\n6\nL\nes\nv\na\nl\neurs cr\ni\nt\ni\nques repo\ns\nent sur\nl\n'\nad\nm\ni\nn\ni\ns\nt\nra\nt\ni\non\ni\nn\nt\nr\na\nv\ne\ni\nneuse.\nL\nes\ni\nso\nl\na\nt\ns b\nê\nt\na\n-\nl\nac\nt\na\nm\nase\n-\npos\niti\nfs\ndo\ni\nv\nent ê\nt\nre repo\nr\nt\nés co\nmm\ne rés\ni\ns\nt\nan\nt\ns.\n7\nL\nes produc\nt\neurs de b\nê\nt\na\n-\nl\nac\nt\na\nm\nase do\ni\nv\nent ê\nt\nre repor\nt\nés co\nmm\ne rés\ni\ns\nt\nan\nt\ns.\n8\nLa sens\ni\nb\ni\nl\nit\né à\nl\n'\na\nm\nox\ni\nc\ni\nll\ni\nne est dédu\ni\nt\ne de\nl\na sens\ni\nb\ni\nl\ni\nt\né à\nl\na benzy\nl\npén\ni\nc\ni\nll\ni\nne.\n9\nLes va\nl\neurs c\nr\ni\nti\nques\nr\neposent sur\nl\nes va\nl\neurs des seu\ni\nl\ns ép\ni\ndé\nm\ni\no\nl\nog\ni\nques\n(\nE\nCO\nF\nF\n)\n, qui\nf\nont\nl\na d\ni\ns\nti\nnc\nt\ni\non en\nt\nre\nl\nes\ni\nso\nl\na\nt\ns de souches sauvages et\nl\nes\ni\nso\nl\na\nt\ns ayant une sens\ni\nb\ni\nl\ni\nt\né d\ni\nm\ni\nnuée.\n10\nLes va\nl\neurs c\nr\ni\nti\nques non\nli\nées à\nl\n'espèce\nr\neposent sur des doses d\n'\nau\nm\no\ni\nns 0,5 g ad\nm\ni\nn\ni\ns\nt\nr\né 3 à 4\nf\no\ni\ns par\nj\nour (1,5 à 2 g\n/\nj\nou\nr\n).\nLa prévalence de la résistance peut varier en fonction de la géographie et du temps pour certaines espèces. Il est donc utile de disposer d'information sur la prévalence de la résistance locale, surtout pour le traitement d'infections sévères. Si nécessaire, il est souhaitable d'obtenir un avis spécialisé principalement lorsque l'intérêt du médicament dans certaines infections peut être mis en cause du fait du niveau de la prévalence de la résistance locale.\nSens\ni\nb\ni\nl\ni\nt\né\ni\nn v\ni\nt\nro\nd\nes\nmi\nc\nro\n-\no\nr\ngan\ni\ns\nm\nes à\nl'\na\nm\no\nx\ni\nc\ni\nl\nl\ni\nne\nE\nspèces hab\ni\nt\nu\ne\nll\ne\nm\ne\nn\nt\nse\nns\ni\nb\nl\nes\nAérobies à Gram positif :\nEnterococcus faecalis\nStreptocoque\nβ\n-hémolytique\n(Groupe A, B, C et G)\nListeria monocytogenes\nE\nspèces\ni\nn\nc\nons\nt\na\nm\nm\ne\nn\nt\ns\nens\ni\nb\nl\nes\n(résistance acquise>10%)\nAérobies à Gram négatif :\nEsche\nr\ni\nc\nh\ni\na co\nl\ni\nH\nae\nm\noph\ni\nl\nus\ni\nn\nf\nl\nu\ne\nnzae\nH\ne\nli\nc\noba\nc\nt\ner p\ny\nl\no\nri\nPro\nt\ne\nu\ns\nmi\nrab\ni\nl\ni\ns\nSa\nl\nm\non\ne\nl\nl\na\nt\ny\nphi\nSa\nl\nm\non\ne\nl\nl\na p\na\nr\na\nt\ny\nphi\nPas\nt\ne\nu\nr\ne\nll\na\nm\nu\nl\nt\noc\ni\nda\nA\né\nr\nob\ni\nes à\nG\nr\nam pos\ni\nt\ni\nf :\nS\nt\naph\ny\nl\no\nc\noques à c\no\na\ng\nu\nl\na\ns\ne né\ng\na\nti\nv\ne\nS\nt\naph\ny\nl\no\nc\nocc\nu\ns a\nu\nreus\n£\nS\nt\nre\np\nt\no\nc\nocc\nu\ns pn\ne\nu\nm\non\ni\na\ne\nS\ntr\ne\np\nt\no\nc\noqu\ne\ns du\ng\nr\nou\np\ne\nVi\nr\ni\nda\nn\ns\nAnaérobies à Gram positif :\nClostridium spp.\nAnaérobies à Gram négatif :\nFusobacterium spp.\nAutre :\nBorrelia burgdorferi\nE\nspèces na\nt\nu\nre\nl\nl\ne\nm\ne\nn\nt r\nés\ni\ns\nt\na\nn\nt\ne\ns†\nAérobies à Gram positif :\nEnterococcus faecium†\nAérobies à Gram négatif :\nAcinetobacter spp.\nEnterobacter spp.\nKlebsiella spp.\nPseudomonas spp.\nAnaérobies à Gram négatif :\nBacteroides spp\n. (de nombreuses souches de Bacteroides fragilis sont résistantes).\nAutres :\nChlamydia spp.\nMycoplasma spp.\nLegionella spp.\n†Sensibilité intermédiaire naturelle en l'absence de mécanisme acquis de résistance\nPresque tous les\nS. aureus\nsont résistants à l'amoxicilline en raison de leur production de pénicillinase.\nDe plus, toutes les souches méticilline-résistantes sont résistantes à l'amoxicilline."
+    },
+    {
+      "section_index": 15,
+      "section_number": "5.2",
+      "title": "Propriétés pharmacocinétiques",
+      "text": "Absorption\nL'amoxicilline est totalement dissociée en solution aqueuse à pH physiologique. Elle est rapidement et bien absorbée après administration orale. Après administration orale, l'amoxicilline présente une biodisponibilité d'environ 70 %. Le délai d'obtention de la concentration plasmatique maximale (Tmax) est d'environ une heure.\nLes résultats pharmacocinétiques d'une étude dans laquelle la posologie de 250 mg d'amoxicilline trois fois/jour était administrée à jeun à des groupes de volontaires sains sont présentés ci-dessous.\nC\nm\na\nx\nT\nm\na\nx *\nA\nSC\n(\n0\n-\n24\nh\n)\nT ½\n(\nµg\n/\nm\nl)\n(\nh)\n((\nµg\n.h\n/\nm\nl\n)\n(\nh)\n3,3 ±\n1\n,12\n1,5\n(\n1,0\n-\n2,0)\n26,7 ± 4,56\n1,36 ± 0,56\n*Mé\nd\niane\n(\nin\nt\ner\nv\na\nl\nle)\nDans l'intervalle de doses comprises entre 250 et 3 000 mg, la biodisponibilité est proportionnelle à la dose administrée (mesurée par la Cmax et l'ASC). L'absorption n'est pas influencée par une prise alimentaire simultanée.\nL'hémodialyse peut être utilisée pour éliminer l'amoxicilline.\nDistribution\nEnviron 18 % de l'amoxicilline plasmatique totale sont liés aux protéines et le volume apparent de distribution est d'environ 0,3 à 0,4 l/kg.\nAprès administration intraveineuse, l'amoxicilline a été détectée dans la vésicule biliaire, le tissu abdominal, la peau, la graisse, les tissus musculaires, les liquides synovial et péritonéal, la bile et le pus. L'amoxicilline ne se distribue pas dans le liquide céphalorachidien de manière adéquate.\nLes études animales n'ont pas montré d'accumulation tissulaire significative de substance dérivée du médicament. L'amoxicilline, comme la majorité des pénicillines, peut être détectée dans le lait maternel (voir rubrique 4.6).\nIl a été montré que l'amoxicilline traverse la barrière placentaire (voir rubrique 4.6).\nBiotransformation\nL'amoxicilline est partiellement excrétée dans l'urine sous forme d'acide pénicilloïque inactif, dans une proportion pouvant atteindre 10 à 25 % de la dose initiale.\nÉlimination\nLa principale voie d'élimination de l'amoxicilline est rénale.\nL'amoxicilline possède une demi-vie d'élimination moyenne d'environ une heure et une clairance totale moyenne d'environ 25 l/heure chez les sujets sains. Environ 60 à 70% de l'amoxicilline est excrétée sous forme inchangée dans l'urine au cours des 6 heures suivant l'administration d'une dose unique de 250 mg ou 500 mg d'amoxicilline. Diverses études ont montré que l'excrétion urinaire est de 50 à 85 % sur une période de 24 heures.\nL'utilisation concomitante de probénécide retarde l'excrétion de l'amoxicilline (voir rubrique 4.5).\nÂge\nLa demi-vie d'élimination de l'amoxicilline chez les jeunes enfants âgés d'environ 3 mois à 2 ans est semblable à celle des enfants plus âgés et des adultes. Chez les très jeunes enfants (y compris les nouveau-nés prématurés), pendant la première semaine de vie, l'administration doit se limiter à deux fois par jour en raison de l'immaturité de la voie d'élimination rénale. En raison d'une probabilité accrue de détérioration de la fonction rénale chez les patients âgés, il convient de sélectionner la dose avec précaution et il peut être utile de surveiller la fonction rénale.\nSexe\nAprès administration orale d'amoxicilline à des hommes et des femmes sains, le sexe n'a pas d'incidence significative sur les caractéristiques pharmacocinétiques de l'amoxicilline.\nInsuffisance rénale\nLa clairance sérique totale de l'amoxicilline diminue proportionnellement à la baisse de la fonction rénale (voir rubriques 4.2 et 4.4).\nInsuffisance hépatique\nL'amoxicilline doit être utilisée avec prudence chez les patients insuffisants hépatiques et la fonction hépatique doit être surveillée régulièrement."
+    },
+    {
+      "section_index": 16,
+      "section_number": "5.3",
+      "title": "Données de sécurité préclinique",
+      "text": "Les données non cliniques issues des études conventionnelles de pharmacologie de sécurité, de toxicologie en administration répétée, génotoxicité et des fonctions de reproduction et de développement, n'ont pas révélé de risque particulier pour l'homme.\nIl n'a pas été conduit d'études de cancérogenèse avec l'amoxicilline."
+    },
+    {
+      "section_index": 17,
+      "section_number": "6",
+      "title": "DONNEES PHARMACEUTIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 18,
+      "section_number": "6.1",
+      "title": "Liste des excipients",
+      "text": "Stéarate de magnésium.\nComposition de l'enveloppe de la gélule :\nTête : gélatine, indigotine, érythrosine, dioxyde de titane (E171).\nCorps : gélatine, oxyde de fer jaune, oxyde de fer rouge, oxyde de fer noir, dioxyde de titane (E171)."
+    },
+    {
+      "section_index": 19,
+      "section_number": "6.2",
+      "title": "Incompatibilités",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 20,
+      "section_number": "6.3",
+      "title": "Durée de conservation",
+      "text": "2 ans."
+    },
+    {
+      "section_index": 21,
+      "section_number": "6.4",
+      "title": "Précautions particulières de conservation",
+      "text": "A conserver à une température ne dépassant pas 25°C, dans l'emballage d'origine."
+    },
+    {
+      "section_index": 22,
+      "section_number": "6.5",
+      "title": "Nature et contenu de l'emballage extérieur",
+      "text": "12 gélules sous plaquettes (PVC/PVDC/Aluminium)."
+    },
+    {
+      "section_index": 23,
+      "section_number": "6.6",
+      "title": "Précautions particulières d'élimination et de manipulation",
+      "text": "Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur."
+    },
+    {
+      "section_index": 24,
+      "section_number": "7",
+      "title": "TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "SANDOZ\n49 AVENUE GEORGES POMPIDOU\n92300 LEVALLOIS-PERRET"
+    },
+    {
+      "section_index": 25,
+      "section_number": "8",
+      "title": "NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "·\n34009 367 960 1 0 : 12 gélules sous plaquettes (PVC/PVDC/Aluminium)."
+    },
+    {
+      "section_index": 26,
+      "section_number": "9",
+      "title": "DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L'AUTORISATION",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 27,
+      "section_number": "10",
+      "title": "DATE DE MISE A JOUR DU TEXTE",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 28,
+      "section_number": "11",
+      "title": "DOSIMETRIE",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 29,
+      "section_number": "12",
+      "title": "INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES",
+      "text": "Sans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nListe I\nPrécédent\nSuivant"
+    }
+  ]
+}

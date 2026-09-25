@@ -1,0 +1,201 @@
+{
+  "document_id": "67119691_rcp",
+  "cis": "67119691",
+  "medicine_name": "DOLIPRANE 500 mg, gélule",
+  "document_type": "RCP",
+  "source": "Base de données publique des médicaments",
+  "source_url": "https://m.base-donnees-publique.medicaments.gouv.fr/rcp-67119691-0",
+  "extraction_method": "mobile_document",
+  "retrieved_at": "2026-09-23T20:45:39.805441+00:00",
+  "content_hash": "20ceb0a3f0e37d3b52355f05a8b237c42858242d3091c36c1df76eee3943773b",
+  "character_count": 18770,
+  "section_count": 30,
+  "non_empty_section_count": 27,
+  "empty_sections": [
+    "4",
+    "5",
+    "6"
+  ],
+  "sections": [
+    {
+      "section_index": 0,
+      "section_number": "1",
+      "title": "DENOMINATION DU MEDICAMENT",
+      "text": "DOLIPRANE 500 mg, gélule"
+    },
+    {
+      "section_index": 1,
+      "section_number": "2",
+      "title": "COMPOSITION QUALITATIVE ET QUANTITATIVE",
+      "text": "Paracétamol.................................................................................................................... 500,00 mg\nPour une gélule.\nPour la liste complète des excipients, voir rubrique 6.1."
+    },
+    {
+      "section_index": 2,
+      "section_number": "3",
+      "title": "FORME PHARMACEUTIQUE",
+      "text": "Gélule."
+    },
+    {
+      "section_index": 3,
+      "section_number": "4",
+      "title": "DONNEES CLINIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 4,
+      "section_number": "4.1",
+      "title": "Indications thérapeutiques",
+      "text": "Traitement symptomatique des douleurs légères à modérées et/ou de la fièvre.\nAdulte et enfant à partir de 27 kg (environ 8 ans)."
+    },
+    {
+      "section_index": 5,
+      "section_number": "4.2",
+      "title": "Posologie et mode d'administration",
+      "text": "Posologie\nUtiliser la dose efficace la plus faible, pendant la durée la plus courte possible\n.\nUtiliser la dose de 1000 mg en cas de douleurs et/ou fièvre non soulagées par une dose de 500 mg de paracétamol.\nPosologie recommandée : environ 60 mg/kg/jour\nà répartir en plusieurs prises\nsans dépasser les doses maximales indiquées dans le tableau ci-dessous. Chez l'enfant, la posologie, devra être ajustée en fonction du poids.\nLes âges approximatifs en fonction du poids sont donnés à titre d'information.\nPoids\n(âge approximatif)\nDose maximale\npar administration\nIntervalle\nd'administration\nDose journalière maximale\nEnfant 27 kg - 40 kg\n(environ 8 à 12 ans)\n500 mg\n(1 gélule)\n6 heures minimum\n2000 mg par jour\nsoit 2 g\n(4 gélules)\nEnfant 41 kg - 49 kg\n(environ 13 à 15 ans)\n500 mg\n(1 gélule)\n4 heures minimum\n3000 mg par jour\nsoit 3 g\n(6 gélules)\nAdulte et enfant à partir de 50 kg\n(environ 15 ans)\n500 mg à 1000 mg\nsoit 500 mg à 1 g\n(1 à 2 gélule(s)))\n4 heures minimum\n3000 mg par jour\nsoit 3 g\n(6 gélules)\nAttention : P\nr\nendre en\nc\no\nm\npte\nl\n'\ne\nn\ns\ne\nm\nb\nl\ne des\nm\néd\ni\nc\na\nm\nents\ncontenant du paracétamol\np\no\nur é\nv\ni\nter\nu\nn\ns\nurdo\ns\nage, y\nc\no\nm\npr\ni\ns\ns\ni\nc\ne\ns\nont des\nm\néd\ni\nc\na\nm\nents obt\ne\nnus\ns\nans pre\nsc\nr\ni\np\nt\ni\non.\nUniquement sur avis médical et en l'absence de facteurs de risques concomitants, la posologie peut être augmentée jusqu'à 4000 mg (4 g) par jour, soit 8 gélules par jour, chez les patients pesant au moins 50 kg (à partir d'environ 15 ans).\nPopulations spéciales\nLa dose maximale quotidienne ne doit pas dépasser 60 mg/kg/jour ni excéder 3000 mg par jour (3 g/jour) dans les situations suivantes :\n·\nAdultes de moins de 50 kg,\n·\nEn cas de réserves basses ou déficit en glutathion hépatique (ex : malnutrition chronique, jeûne, amaigrissement récent, anorexie, cachexie),\n·\nDéshydratation.\nInsuffisance hépatique (légère à modérée), alcoolisme chronique et syndrome de Gilbert (jaunisse familiale non-hémolytique)\nIl est recommandé de réduire la dose et d'augmenter l'intervalle minimum entre deux prises. La dose quotidienne de paracétamol ne doit pas dépasser 2000 mg/jour (2 g/jour).\nInsuffisance rénale\nEn cas d'insuffisance rénale et sauf avis médical, il est recommandé de réduire la dose journalière maximale et d'augmenter l'intervalle minimum entre 2 prises selon le tableau ci-dessous.\nAdultes :\nClairance de la créatinine\nIntervalle d'administration\nDose journalière maximale\n10-50 mL/min\n6 heures minimum\n3000 mg/j (3 g/jour)\n<10 mL/min\n8 heures minimum\n2000 mg/j (2 g/jour)\nPersonnes âgées\nL'expérience clinique indique que la posologie recommandée chez les adultes est généralement adéquate. Toutefois, il convient de tenir compte des facteurs de risques concomitants, dont certains surviennent plus souvent chez les sujets âgés, et qui nécessitent une adaptation de la posologie.\nMode d'administration\nVoie orale.\nLes gélules sont à avaler telles quelles avec un verre d'eau.\nDurée de traitement\nUne utilisation fréquente ou prolongée sans surveillance médicale est déconseillée.\nSi les symptômes persistent au-delà de\n5\njours en cas de douleur ou de 3 jours en cas de fièvre, si les symptômes s'aggravent ou si de nouveaux symptômes apparaissent,\nle traitement doit être réévalué."
+    },
+    {
+      "section_index": 6,
+      "section_number": "4.3",
+      "title": "Contre-indications",
+      "text": "Hypersensibilité au paracétamol ou à l'un des excipients mentionnés à la rubrique 6.1.\nInsuffisance hépatique sévère."
+    },
+    {
+      "section_index": 7,
+      "section_number": "4.4",
+      "title": "Mises en garde spéciales et précautions d'emploi",
+      "text": "Les patients doivent être informés qu'ils ne doivent pas prendre d'autres médicaments contenant du paracétamol. La prise de plusieurs doses en une administration peut gravement endommager le foie ; le cas échéant, le patient doit immédiatement appeler un médecin.\nChez un enfant traité par 60 mg/kg/jour de paracétamol, l'association d'un autre antipyrétique n'est justifiée qu'en cas d'inefficacité.\nEn cas d'hépatite virale aiguë, il convient d'arrêter le traitement.\nPrécautions d'emploi\nLe paracétamol doit être administré avec précaution\ndans les situations suivantes (voir rubrique 4.2)\n:\n·\nAdulte de poids inférieur à 50 kg\n·\nInsuffisance hépatique légère à modérée\n·\nAlcoolisme chronique et sevrage récent\n·\nInsuffisance rénale\n·\nSyndrome de Gilbert\n·\nTraitement concomitant avec des médicaments affectant la fonction hépatique (ex : médicaments potentiellement hépatotoxiques ou médicaments inducteurs enzymatiques du cytochrome P450 tels que phénobarbital, phénytoïne, carbamazépine, topiramate, rifampicine)\n·\nDéficit en Glucose-6-Phosphate Déshydrogénase (G6PD) (pouvant conduire à une anémie hémolytique)\n·\nDéshydratation\n·\nEn cas de réserves basses ou déficit en glutathion hépatique (ex : malnutrition chronique, jeûne, amaigrissement récent, anorexie, cachexie)\n·\nPersonnes âgées\nLa consommation de boissons alcoolisées pendant le traitement est déconseillée.\nEn cas de prise au long cours, de fortes doses, ou d'utilisation incorrecte d'analgésiques\nchez des patients atteints de céphalées chroniques\n, des céphalées peuvent apparaître ou s'aggraver ; elles ne doivent pas être traitées par des doses plus élevées de ce médicament.\nDans de tels cas, l'utilisation d'analgésiques doit être interrompue sur avis médical.\nDes cas d'acidose métabolique à trou anionique élevé (AMTAE) due à une acidose pyroglutamique ont été rapportés chez les patients atteints de maladies graves telles qu'une insuffisance rénale sévère et un sepsis, ou chez les patients souffrant de malnutrition ou d'autres sources de déficit en glutathion (par exemple, l'alcoolisme chronique), qui ont été traités par du paracétamol à une dose thérapeutique pendant une période prolongée ou par une association de paracétamol et de flucloxacilline. En cas de suspicion d'AMTAE due à une acidose pyroglutamique, il est recommandé d'arrêter immédiatement le paracétamol et d'effectuer une surveillance étroite. La mesure de la 5-oxoproline urinaire peut être utile pour identifier l'acidose pyroglutamique comme cause sous-jacente de l'AMTAE chez les patients présentant de multiples facteurs de risque."
+    },
+    {
+      "section_index": 8,
+      "section_number": "4.5",
+      "title": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "text": "Associations faisant l'objet de précautions d'emploi\n+ Antivitamines K\nRisque d'augmentation de l'effet de l'antivitamine K et du risque hémorragique en cas de prise de paracétamol aux doses maximales (4 g/j) pendant au moins 4 jours.\nContrôle plus fréquent de l'INR. Adaptation éventuelle de la posologie de l'antivitamine K pendant le traitement par le paracétamol et après son arrêt.\n+ Flucloxacilline\nDes précautions doivent être prises lorsque le paracétamol est utilisé en même temps que la flucloxacilline, car une prise concomitante\na été associée à une acidose métabolique à trou anionique élevé\ndue à une acidose pyroglutamique\n, en particulier chez les patients présentant des facteurs de risque (voir rubrique 4.4).\nInteractions avec les examens paracliniques\nLa prise de paracétamol peut fausser le dosage de la glycémie par la méthode à la glucose oxydase‑peroxydase en cas de concentrations anormalement élevées.\nLa prise de paracétamol peut fausser le dosage de l'acide urique sanguin par la méthode à l'acide phosphotungstique."
+    },
+    {
+      "section_index": 9,
+      "section_number": "4.6",
+      "title": "Fertilité, grossesse et allaitement",
+      "text": "Grossesse\nUne vaste quantité de données portant sur les femmes enceintes démontrent l'absence de toute malformation ou de toute toxicité fœtale/néonatale. Les études épidémiologiques consacrées au neurodéveloppement des enfants exposés au paracétamol in utero produisent des résultats non concluants. Si cela s'avère nécessaire d'un point de vue clinique, le paracétamol peut être utilisé pendant la grossesse ; cependant il devra être utilisé à la dose efficace la plus faible, pendant la durée la plus courte possible et à la fréquence la plus réduite possible.\nAllaitement\nAprès administration, le paracétamol est éliminé en petites quantités dans le lait maternel. Aux doses thérapeutiques, l'administration de ce médicament est possible pendant l'allaitement.\nFertilité\nEn raison du mécanisme d'action potentiel sur les cyclo-oxygénases et la synthèse de prostaglandines, le paracétamol pourrait altérer la fertilité chez la femme, par un effet sur l'ovulation réversible à l'arrêt du traitement.\nDes effets sur la fertilité des mâles ont été observés dans une étude chez l'animal. La pertinence de ces effets chez l'homme n'est pas connue."
+    },
+    {
+      "section_index": 10,
+      "section_number": "4.7",
+      "title": "Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "text": "Le paracétamol n'a aucun effet ou qu'un effet négligeable sur l'aptitude à conduire des véhicules et à utiliser des machines."
+    },
+    {
+      "section_index": 11,
+      "section_number": "4.8",
+      "title": "Effets indésirables",
+      "text": "Les effets indésirables sont classés par système-organe. Leurs fréquences sont définies de la façon suivante :\n·\nTrès fréquent (\n³\n1/10)\n·\nFréquent (\n³\n1/100 à < 1/10)\n·\nPeu fréquent (\n³\n1/1000 à < 1/100)\n·\nRare (\n³\n1/10 000 à < 1/1000)\n·\nTrès rare (< 1/10 000)\n·\nFréquence indéterminée (ne peut être estimée sur la base des données disponibles)\nClasse de système d'organes\nRare\n(\n³\n1/10 000 à\n< 1/1 000)\nTrès rare\n(< 1/10 000)\nFréquence indéterminée\nAffections hématologiques et du système lymphatique\nThrombopénie, Leucopénie,\nNeutropénie\nAffections du système immunitaire\nRéactions d'hypersensibilité\n1\nRéaction anaphylactique (dont hypotension)\n1\n,\nChoc anaphylactique\n1\n,\nAngioedème (œdème de Quincke)\n1\nAffections respiratoires, thoraciques et médiastinales\nBronchospasme\n3\n.\nTroubles du métabolisme et de la nutrition\nAcidose métabolique à trou anionique élevé\n4\nAffections gastro-intestinales\nDiarrhées,\nDouleurs abdominales.\nAffections hépatobiliaires\nAugmentation des enzymes hépatiques\nAffections de la peau et du tissu sous-cutané\nErythème\n1\n,\nUrticaire\n1\n,\nRash cutané\n1\n,\nPurpura\n2\nRéactions cutanées graves\n1\nErythème pigmenté fixe\n1\nLeur survenue impose l'arrêt immédiat et définitif de ce médicament et des médicaments apparentés.\n2\nLa survenue de cet effet impose l'arrêt immédiat de ce médicament. Le médicament pourra être\nréintroduit uniquement sur avis médical.\n3\nDes cas de bronchospasme ont été identifiés avec le paracétamol, majoritairement chez des patients asthmatiques sensibles à l'aspirine ou à d'autres anti-inflammatoires non-stéroïdiens\n4\nDes cas d'acidose métabolique à trou anionique élevé due à une acidose pyroglutamique ont été rapportés chez des patients présentant des facteurs de risque et prenant du paracétamol (voir rubrique 4.4). Une acidose pyroglutamique peut survenir chez ces patients en raison des faibles taux de glutathion.\nDéclaration des effets indésirables suspectés\nLa déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration :\nAgence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet :\nhttps://signalement.social-sante.gouv.fr/\n."
+    },
+    {
+      "section_index": 12,
+      "section_number": "4.9",
+      "title": "Surdosage",
+      "text": "Le risque d'une intoxication grave (surdosage thérapeutique ou intoxication accidentelle) peut être particulièrement élevé chez les sujets âgés, chez les jeunes enfants, chez les patients avec une atteinte hépatique ou rénale, en cas d'alcoolisme chronique, chez les patients souffrant de malnutrition chronique (voir rubrique 4.2), jeûne , amaigrissement récent, cholémie familiale (syndrome de Gilbert), ainsi que les patients recevant des médicaments inducteurs enzymatiques. Dans ces cas, l'intoxication peut être mortelle.\nSymptômes\nNausées, vomissements, anorexie, pâleur, malaise, sudation, douleurs abdominales apparaissent généralement dans les 24 premières heures.\nUn surdosage peut provoquer une cytolyse hépatique susceptible d'entraîner une insuffisance hépatocellulaire pouvant nécessiter une greffe hépatique, un saignement gastro-intestinal, une acidose métabolique, une encéphalopathie, pouvant aller jusqu'au coma et à la mort.\nDes cas de coagulation intravasculaire disséminée ont été observés dans un contexte de surdosage au paracétamol.\nSimultanément, on observe une augmentation des transaminases hépatiques, de la lactico-déshydrogénase, de la bilirubine et une diminution du taux de prothrombine pouvant apparaître 12 à 48 heures après l'ingestion. Les symptômes cliniques de l'atteinte hépatique sont généralement observés après 1 à 2 jours, et atteignent un maximum après 3 à 4 jours.\nLe surdosage peut également entraîner une pancréatite aiguë, une hyperamylasémie, une insuffisance rénale aiguë et une pancytopénie.\nConduite d'urgence\n·\nArrêt du traitement.\n·\nTransfert immédiat en milieu hospitalier, pour des soins médicaux d'urgence, malgré l'absence de symptômes précoces significatifs.\n·\nEvacuation rapide du produit ingéré, par aspiration et lavage gastrique de préférence dans les 4 heures qui suivent l'ingestion.\n·\nPrélèvement sanguin pour faire le dosage plasmatique initial de paracétamol. La concentration plasmatique du paracétamol doit être mesurée au minimum 4 heures après l'ingestion (un dosage réalisé plus tôt n'est pas fiable).\n·\nLe traitement du surdosage comprend classiquement l'administration aussi précoce que possible de l'antidote N-acétylcystéine par voie I.V. ou voie orale si possible\navant\nla dixième heure. Bien que moins efficace, un effet protecteur de l'antidote peut être obtenu jusqu'à 48 heures post-ingestion. Dans ce cas, l'antidote doit être administré plus longtemps.\n·\nTraitement symptomatique.\n·\nDes tests hépatiques doivent être effectués au début du traitement et répétés toutes les 24 heures. Dans la plupart des cas, les transaminases hépatiques reviennent à la normale en 1 à 2 semaines avec une restitution intégrale de la fonction hépatique. Cependant, dans les cas très graves, une transplantation hépatique peut être nécessaire.\n·\nLa prise d'autres mesures dépendra de la gravité, de la nature et de l'évolution des symptômes cliniques de l'intoxication au paracétamol et devra suivre les protocoles standards de soins intensifs."
+    },
+    {
+      "section_index": 13,
+      "section_number": "5",
+      "title": "PROPRIETES PHARMACOLOGIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 14,
+      "section_number": "5.1",
+      "title": "Propriétés pharmacodynamiques",
+      "text": "Classe pharmacothérapeutique : AUTRES ANALGESIQUES et ANTIPYRETIQUES‑ANILIDES.\nCode ATC :\nN02BE01\nLe paracétamol a un mécanisme d'action central et périphérique."
+    },
+    {
+      "section_index": 15,
+      "section_number": "5.2",
+      "title": "Propriétés pharmacocinétiques",
+      "text": "Absorption\nL'absorption du paracétamol par voie orale est complète et rapide. Les concentrations plasmatiques maximales sont atteintes 30 à 60 minutes après ingestion.\nDistribution\nLe paracétamol se distribue rapidement dans tous les tissus. Les concentrations sont comparables dans le sang, la salive et le plasma. La liaison aux protéines plasmatiques est faible.\nBiotransformation\nLe paracétamol est métabolisé essentiellement au niveau du foie. Les 2 voies métaboliques majeures sont la glycuroconjugaison et la sulfoconjugaison. Cette dernière voie est rapidement saturable aux posologies supérieures aux doses thérapeutiques. Une voie mineure, catalysée par le cytochrome P450, est la formation d'un intermédiaire réactif (le N‑acétyl benzoquinone imine), qui dans les conditions normales d'utilisation, est rapidement détoxifié par le glutathion réduit et éliminé dans les urines après conjugaison à la cystéine et à l'acide mercaptopurique. En revanche, lors d'intoxications massives, la quantité de ce métabolite toxique est augmentée.\nElimination\nL'élimination est essentiellement urinaire. 90% de la dose ingérée est éliminée par le rein en 24 heures, principalement sous forme glycuroconjuguée (60 à 80%) et sulfoconjuguée (20 à 30%).\nMoins de 5% est éliminé sous forme inchangée.\nLa demi‑vie d'élimination est d'environ 2 heures.\nVariations physiopathologiques\nInsuffisance rénale\n(voir rubrique 4.2) : l'élimination du paracétamol et de ses métabolites est retardée.\nInsuffisance hépatique\n: le métabolisme du paracétamol est altéré chez les patients présentant une insuffisance hépatique chronique, comme le montrent l'augmentation des concentrations plasmatiques de paracétamol et une demi-vie d'élimination plus longue (voir rubrique 4.2).\nSujet âgé\n: la capacité de conjugaison n'est pas modifiée (voir rubrique 4.2)."
+    },
+    {
+      "section_index": 16,
+      "section_number": "5.3",
+      "title": "Données de sécurité préclinique",
+      "text": "Aucune étude conventionnelle s'appuyant sur les normes actuellement admises pour évaluer la toxicité pour la reproduction et le développement n'est disponible."
+    },
+    {
+      "section_index": 17,
+      "section_number": "6",
+      "title": "DONNEES PHARMACEUTIQUES",
+      "text": ""
+    },
+    {
+      "section_index": 18,
+      "section_number": "6.1",
+      "title": "Liste des excipients",
+      "text": "Amidon de maïs, distéarate de glycérol, stéarate de magnésium.\nComposition de l'enveloppe de la gélule\n: gélatine, oxyde de fer jaune (E172), bleu patenté V (E131)."
+    },
+    {
+      "section_index": 19,
+      "section_number": "6.2",
+      "title": "Incompatibilités",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 20,
+      "section_number": "6.3",
+      "title": "Durée de conservation",
+      "text": "3 ans."
+    },
+    {
+      "section_index": 21,
+      "section_number": "6.4",
+      "title": "Précautions particulières de conservation",
+      "text": "Pas de précautions particulières de conservation."
+    },
+    {
+      "section_index": 22,
+      "section_number": "6.5",
+      "title": "Nature et contenu de l'emballage extérieur",
+      "text": "6 gélules sous plaquette thermoformée (PVC/Aluminium)\n8 gélules sous plaquette thermoformée (PVC/Aluminium)\n12 gélules sous plaquette thermoformée (PVC/Aluminium)\n16 gélules sous plaquette thermoformée (PVC/Aluminium)\n40 gélules sous plaquette thermoformée (PVC/Aluminium)\n100 gélules sous plaquette thermoformée (PVC/Aluminium)\nToutes les présentations peuvent ne pas être commercialisées."
+    },
+    {
+      "section_index": 23,
+      "section_number": "6.6",
+      "title": "Précautions particulières d'élimination et de manipulation",
+      "text": "Pas d'exigences particulières."
+    },
+    {
+      "section_index": 24,
+      "section_number": "7",
+      "title": "TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "OPELLA HEALTHCARE FRANCE SAS\n157 AVENUE CHARLES DE GAULLE\n92200 NEUILLY-SUR-SEINE\nFRANCE"
+    },
+    {
+      "section_index": 25,
+      "section_number": "8",
+      "title": "NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE",
+      "text": "·\n34009 345 074 9 6 : 6 gélules sous plaquette (PVC/Aluminium)\n·\n34009 345 075 5 7 : 8 gélules sous plaquette (PVC/Aluminium)\n·\n34009 345 076 1 8 : 12 gélules sous plaquette (PVC/Aluminium).\n·\n34009 345 077 8 6 : 16 gélules sous plaquette (PVC/Aluminium).\n·\n34009 560 825 5 1 : 40 gélules sous plaquette (PVC/Aluminium).\n·\n34009 560 826 1 2 : 100 gélules sous plaquette (PVC/Aluminium)."
+    },
+    {
+      "section_index": 26,
+      "section_number": "9",
+      "title": "DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L'AUTORISATION",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 27,
+      "section_number": "10",
+      "title": "DATE DE MISE A JOUR DU TEXTE",
+      "text": "[à compléter ultérieurement par le titulaire]"
+    },
+    {
+      "section_index": 28,
+      "section_number": "11",
+      "title": "DOSIMETRIE",
+      "text": "Sans objet."
+    },
+    {
+      "section_index": 29,
+      "section_number": "12",
+      "title": "INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES",
+      "text": "Sans objet.\nCONDITIONS DE PRESCRIPTION ET DE DELIVRANCE\nMédicament non soumis à prescription médicale.\nPrécédent\nSuivant"
+    }
+  ]
+}
