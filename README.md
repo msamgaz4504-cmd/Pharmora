@@ -258,7 +258,6 @@ Les principales limites actuelles sont :
 
 - catalogue volontairement limité
 - dépendance à une API LLM externe
-- qualité de l’OCR dépendante de la qualité de l’image fournie
 - validation du grounding encore améliorable
 - optimisation nécessaire pour les environnements cloud à ressources limitées
 - couverture fonctionnelle encore volontairement limitée à une première version
