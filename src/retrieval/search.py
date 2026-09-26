@@ -8,7 +8,9 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 
 
-INDEX_DIR = Path("data/index")
+BASE_DIR = Path(__file__).resolve().parents[2]
+
+INDEX_DIR = BASE_DIR / "data" / "index"
 INDEX_PATH = INDEX_DIR / "pharmora.faiss"
 METADATA_PATH = INDEX_DIR / "metadata.json"
 CONFIG_PATH = INDEX_DIR / "config.json"
@@ -21,11 +23,15 @@ class PharmoraRetriever:
         self._validate_files()
 
         self.config = json.loads(
-            CONFIG_PATH.read_text(encoding="utf-8")
+            CONFIG_PATH.read_text(
+                encoding="utf-8"
+            )
         )
 
         self.metadata = json.loads(
-            METADATA_PATH.read_text(encoding="utf-8")
+            METADATA_PATH.read_text(
+                encoding="utf-8"
+            )
         )
 
         self.index = faiss.read_index(
@@ -58,12 +64,16 @@ class PharmoraRetriever:
             )
 
     def _validate_index(self):
-        if self.index.ntotal != len(self.metadata):
+        if self.index.ntotal != len(
+            self.metadata
+        ):
             raise RuntimeError(
                 "FAISS et metadata désynchronisés."
             )
 
-        if self.index.d != self.config["dimension"]:
+        if self.index.d != self.config[
+            "dimension"
+        ]:
             raise RuntimeError(
                 "Dimension FAISS incorrecte."
             )
@@ -81,7 +91,9 @@ class PharmoraRetriever:
 
         query = (
             question
-            if question.lower().startswith("query:")
+            if question.lower().startswith(
+                "query:"
+            )
             else f"query: {question}"
         )
 
@@ -96,7 +108,9 @@ class PharmoraRetriever:
             dtype=np.float32,
         )
 
-        if not np.isfinite(vector).all():
+        if not np.isfinite(
+            vector
+        ).all():
             raise RuntimeError(
                 "Embedding de requête invalide."
             )
@@ -128,14 +142,19 @@ class PharmoraRetriever:
             self.index.ntotal
             if has_filter
             else min(
-                max(top_k * 10, 100),
+                max(
+                    top_k * 10,
+                    100,
+                ),
                 self.index.ntotal,
             )
         )
 
-        scores, indexes = self.index.search(
-            query_vector,
-            search_k,
+        scores, indexes = (
+            self.index.search(
+                query_vector,
+                search_k,
+            )
         )
 
         results = []
@@ -147,29 +166,50 @@ class PharmoraRetriever:
             if index < 0:
                 continue
 
-            item = self.metadata[int(index)]
+            item = self.metadata[
+                int(index)
+            ]
 
             if (
                 cis is not None
-                and str(item["cis"]) != str(cis)
+                and str(
+                    item["cis"]
+                ) != str(cis)
             ):
                 continue
 
             if (
                 document_type is not None
-                and item["document_type"].upper()
+                and item[
+                    "document_type"
+                ].upper()
                 != document_type.upper()
             ):
                 continue
 
-            result = dict(item)
+            result = dict(
+                item
+            )
 
-            result["dense_score"] = float(score)
-            result["score"] = float(score)
+            result[
+                "dense_score"
+            ] = float(
+                score
+            )
 
-            results.append(result)
+            result[
+                "score"
+            ] = float(
+                score
+            )
 
-            if len(results) >= top_k:
+            results.append(
+                result
+            )
+
+            if len(
+                results
+            ) >= top_k:
                 break
 
         return results
