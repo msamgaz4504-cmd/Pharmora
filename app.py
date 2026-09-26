@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import base64
 import html as html_lib
 import os
@@ -38,6 +39,17 @@ def render_html(
         content
     )
 
+def clean_display_answer(
+    content: str,
+) -> str:
+    content = re.sub(
+        r"\s*\[S\d+\]",
+        "",
+        str(content),
+        flags=re.IGNORECASE,
+    )
+
+    return content.strip()
 
 @st.cache_data(
     show_spinner=False
@@ -1197,7 +1209,9 @@ def render_chat() -> None:
                 )
 
                 st.markdown(
-                    content
+                    clean_display_answer(
+                        content
+                    )
                 )
 
     last_result = (

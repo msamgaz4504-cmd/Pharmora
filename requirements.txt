@@ -6,6 +6,6 @@ numpy
 groq
 python-dotenv
 sentence-transformers
-paddleocr==3.7.0
-paddlepaddle==3.3.1
+rapidocr
+onnxruntime
 Pillow
